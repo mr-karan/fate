@@ -78,12 +78,19 @@ if args.filter:
     search_by_filter = [p_list[i][1] for i in range(len(p_list)) if (p_list[i][1] is not None)]
     f_completer = WordCompleter(list(set([k for i in search_by_filter for k in i ])))
     textf = prompt('Search By Filter: ', completer=f_completer)
-    give_id = {p_list[i][2]:p_list[i][3] for i in range(len(p_list)) if (p_list[i][1] is not None) and ('bar' in p_list[i][1])}
+    give_id = {p_list[i][2]:p_list[i][3] for i in range(len(p_list)) if (p_list[i][1] is not None) and (textf in p_list[i][1])}
     for i in list(give_id.keys()):
         print(i)
     i_completer = WordCompleter(list(give_id.keys()))
     texti = prompt('Enter Icon Name: ', completer=i_completer)
-    print(give_id[texti])
+    msg = '''Icon Details
+    Name : {0}
+    Unicode : {1}
+    HTML Hex :  {2}
+    Icon :{3}
+
+    '''.format('fa-'+texti,give_id[texti],'&#x'+give_id[texti],html.unescape('&#x'+give_id[texti]))
+    print(msg)
         
 if args.aliases:
     auto_complete(p_list)
