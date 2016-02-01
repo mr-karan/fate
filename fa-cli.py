@@ -1,5 +1,6 @@
-  #!/usr/bin/python
-  # -*- coding: UTF-8 -*-
+#!/usr/bin/python
+# -*- coding: UTF-8 -*-
+#Author mr-karan
 
 import yaml
 import requests
@@ -9,9 +10,13 @@ from prompt_toolkit import prompt
 from prompt_toolkit.contrib.completers import WordCompleter
 from collections import namedtuple
 import argparse
-#parser = argparse.ArgumentParser(prog='fa-cli')
-#parser.add_argument('-i', '--icon', type=auto_complete() ,help='Enter fontawesome icon name')
-#args = parser.parse_args()
+parser = argparse.ArgumentParser(prog='fa-cli')
+parser.add_argument('-i', '--icon', action='store_true' ,help='Enter icon name')
+parser.add_argument('-f', '--filter', action='store_true' ,help='Filter Font awesome icons')
+parser.add_argument('-a', '--aliases', action='store_true' ,help='Aliases')
+parser.add_argument('-c', '--category', action='store_true'  ,help='Category Icons')
+args = parser.parse_args()
+
 def clean(a):
     for i in a:
         try:
@@ -65,5 +70,23 @@ def auto_complete(p_list):
     #print(k['name'])
     #print(html.unescape(html_entity))
 
-auto_complete(p_list)
+#auto_complete(p_list)
+
+#if args.icon:
+#    auto_complete(icon_list)
+if args.filter:
+    search_by_filter = [p_list[i][1] for i in range(len(p_list)) if (p_list[i][1] is not None)]
+    f_completer = WordCompleter(list(set([k for i in search_by_filter for k in i ])))
+    textf = prompt('Search By Filter: ', completer=f_completer)
+    give_id = {p_list[i][2]:p_list[i][3] for i in range(len(p_list)) if (p_list[i][1] is not None) and ('bar' in p_list[i][1])}
+    for i in list(give_id.keys()):
+        print(i)
+    i_completer = WordCompleter(list(give_id.keys()))
+    texti = prompt('Enter Icon Name: ', completer=i_completer)
+    print(give_id[texti])
+        
+if args.aliases:
+    auto_complete(p_list)
+if args.category:
+    auto_complete(p_list)
     
