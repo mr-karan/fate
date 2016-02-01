@@ -1,6 +1,5 @@
   #!/usr/bin/python
   # -*- coding: UTF-8 -*-
-
 import yaml
 import requests
 import json
@@ -10,39 +9,23 @@ import pyperclip
 from prompt_toolkit import prompt
 from prompt_toolkit.contrib.completers import WordCompleter
 from collections import namedtuple
-parser = argparse.ArgumentParser(prog='fa-cli')
+from helpers import *
+parser = argparse.ArgumentParser(prog='fa-cli',description='FontAwesome CLI')
 parser.add_argument('-i', '--icon', action='store_true' ,help='Enter icon name')
 parser.add_argument('-f', '--filter', action='store_true' ,help='Filter Font awesome icons')
 parser.add_argument('-a', '--aliases', action='store_true' ,help='Aliases')
 parser.add_argument('-c', '--category', action='store_true'  ,help='Category Icons')
-parser.add_argument('-o','--output',type=str,nargs='*', action='store',help='Copies the data to your clipboard')
+parser.add_argument('-o','--output',type=str,nargs=1, action='store',help='Copies the data to your clipboard', metavar = ("name / unicode /icon"))
 args = parser.parse_args()
 
-def icon_list(p_list,*pos):
-    if pos:
-        return [p_list[i][pos[0]] for i in range(len(p_list)) if (p_list[i][pos[0]] is not None)]
-    else:
-        return [p_list[i][2] for i in range(len(p_list))]
-    
-def icon_output(l):
-    print('Icon''(s) matched this criteria :')
-    for i in l:
-        print(i)
-    
-def give_id_unicode(p_list,*text):
-    if text:
-        id_unicode = {p_list[i][2]:p_list[i][3] for i in range(len(p_list)) if (p_list[i][text[1]] is not None) and (text[0] in p_list[i][text[1]])}
-    else:
-        id_unicode = {p_list[i][2]:p_list[i][3] for i in range(len(p_list))}
-    return id_unicode
-
 def message(give_id,text):
-    if args.output[0] =='unicode':
-        pyperclip.copy(give_id[text])
-    if args.output[0] =='name':
-        pyperclip.copy('fa-'+text)
-    if args.output[0] =='icon':
-        pyperclip.copy(html.unescape('&#x'+give_id[text]))
+    if args.output:
+        if args.output[0] =='unicode':
+            pyperclip.copy(give_id[text])
+        if args.output[0] =='name':
+            pyperclip.copy('fa-'+text)
+        if args.output[0] =='icon':
+            pyperclip.copy(html.unescape('&#x'+give_id[text]))
     return '''Icon Details
     Name : {0}
     Unicode : {1}
@@ -50,20 +33,7 @@ def message(give_id,text):
     Icon :{3}
 
     '''.format('fa-'+text,give_id[text],'&#x'+give_id[text],html.unescape('&#x'+give_id[text]))
-def clean(a):
-    for i in a:
-        try:
-            if (i['aliases']):
-                continue
-        except KeyError:
-            i['aliases']=''
-    for i in a:
-        try:
-            if (i['filter']):
-                continue
-        except KeyError:
-            i['filter']=''     
-    return a 
+
 if __name__ =='__main__':
     try:
         with open('.fa_cache','r') as the_json:
