@@ -5,15 +5,17 @@ import yaml
 import requests
 import json
 import html
+import argparse
+import pyperclip
 from prompt_toolkit import prompt
 from prompt_toolkit.contrib.completers import WordCompleter
 from collections import namedtuple
-import argparse
 parser = argparse.ArgumentParser(prog='fa-cli')
 parser.add_argument('-i', '--icon', action='store_true' ,help='Enter icon name')
 parser.add_argument('-f', '--filter', action='store_true' ,help='Filter Font awesome icons')
 parser.add_argument('-a', '--aliases', action='store_true' ,help='Aliases')
 parser.add_argument('-c', '--category', action='store_true'  ,help='Category Icons')
+parser.add_argument('-o','--output',type=str,nargs='*', action='store',help='Copies the data to your clipboard')
 args = parser.parse_args()
 
 def icon_list(p_list,*pos):
@@ -27,7 +29,6 @@ def icon_output(l):
     for i in l:
         print(i)
     
-    
 def give_id_unicode(p_list,*text):
     if text:
         id_unicode = {p_list[i][2]:p_list[i][3] for i in range(len(p_list)) if (p_list[i][text[1]] is not None) and (text[0] in p_list[i][text[1]])}
@@ -36,6 +37,12 @@ def give_id_unicode(p_list,*text):
     return id_unicode
 
 def message(give_id,text):
+    if args.output[0] =='unicode':
+        pyperclip.copy(give_id[text])
+    if args.output[0] =='name':
+        pyperclip.copy('fa-'+text)
+    if args.output[0] =='icon':
+        pyperclip.copy(html.unescape('&#x'+give_id[text]))
     return '''Icon Details
     Name : {0}
     Unicode : {1}
@@ -76,6 +83,8 @@ if __name__ =='__main__':
         i_completer = WordCompleter(search_by_id)
         texti = prompt('Enter Icon Name: ', completer=i_completer)
         print(message(give_id,texti))
+
+
         
     if args.filter:
         search_by_filter = icon_list(p_list,1)
@@ -108,5 +117,4 @@ if __name__ =='__main__':
         texti = prompt('Enter Icon Name: ', completer=i_completer)
         print(message(give_id,texti))
 
-    
     
