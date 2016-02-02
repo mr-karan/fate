@@ -1,22 +1,6 @@
 #!/usr/bin/python
 # -*- coding: UTF-8 -*-
 
-"""
-fate CLI
-    Copyright (C) 2016 Karan Sharma
-    This program is free software; you can redistribute it and/or modify
-    it under the terms of the GNU General Public License as published by
-    the Free Software Foundation; either version 2 of the License, or
-    (at your option) any later version.
-    This program is distributed in the hope that it will be useful,
-    but WITHOUT ANY WARRANTY; without even the implied warranty of
-    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-    GNU General Public License for more details.
-    You should have received a copy of the GNU General Public License along
-    with this program; if not, write to the Free Software Foundation, Inc.,
-    51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA.
-"""
-
 import yaml
 import requests
 import json
@@ -26,7 +10,7 @@ import pyperclip
 from prompt_toolkit import prompt
 from prompt_toolkit.contrib.completers import WordCompleter
 from collections import namedtuple
-from helpers import *
+from fate.helpers import *
 parser = argparse.ArgumentParser(prog='fa-cli', description='FontAwesome CLI')
 parser.add_argument('-i', '--icon', action='store_true', help='Enter icon name')
 parser.add_argument('-f', '--filter', action='store_true', help='Filter Font awesome icons')
@@ -39,25 +23,29 @@ args = parser.parse_args()
 
 
 def message(give_id, text):
-    name = 'fa-'+text
-    uni = give_id[text]
-    hexhtml = '&#x'+give_id[text]
-    icon = html.unescape('&#x'+give_id[text])
+    try:
+        if give_id[text]:
+            name = 'fa-'+text
+            uni = give_id[text]
+            hexhtml = '&#x'+give_id[text]
+            icon = html.unescape('&#x'+give_id[text])
 
-    if args.echo:
-        if args.echo[0] == 'unicode':
-            pyperclip.copy(give_id[text])
-        if args.echo[0] == 'name':
-            pyperclip.copy('fa-'+text)
-        if args.echo[0] == 'icon':
-            pyperclip.copy(html.unescape('&#x'+give_id[text]))
-    return '''Icon Details
-    Name : {0}
-    Unicode : {1}
-    HTML Hex :  {2}
-    Icon : {3}
+            if args.echo:
+                if args.echo[0] == 'unicode':
+                    pyperclip.copy(give_id[text])
+                if args.echo[0] == 'name':
+                    pyperclip.copy('fa-'+text)
+                if args.echo[0] == 'icon':
+                    pyperclip.copy(html.unescape('&#x'+give_id[text]))
+            return '''Icon Details
+            Name : {0}
+            Unicode : {1}
+            HTML Hex :  {2}
+            Icon : {3}
 
-    '''.format(name, uni, hexhtml, icon)
+            '''.format(name, uni, hexhtml, icon)
+    except KeyError:
+        print('Invalid name')
 
 if __name__ == '__main__':
     # Maintain a cache so that everytime it doesn't need to request the source file.
