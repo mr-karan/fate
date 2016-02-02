@@ -1,4 +1,4 @@
-# fa-cli
+# fate
 
 To Do :
 - [x] Add filter , aliases , categories name to autocomplete
