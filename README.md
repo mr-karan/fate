@@ -1,5 +1,4 @@
 # fate
-[![Github All Releases](https://img.shields.io/github/downloads/mr-karan/fate/total.svg)]()
 [![version](https://img.shields.io/pypi/v/fate.svg)](https://pypi.python.org/pypi/fate/)
 [![supported](https://img.shields.io/pypi/pyversions/fate.svg)](https://pypi.python.org/pypi/fate/)
 [![Twitter](https://img.shields.io/twitter/url/https/pypi.python.org/pypi/fate.svg?style=social?style=flat-square)](https://twitter.com/intent/tweet?text=Wow:&url=%5Bobject%20Object%5D)
@@ -12,8 +11,7 @@ Note : Python3+ only.
 
 > `pip install fate`
 
-
-[![asciicast](https://asciinema.org/a/9oyqtsd9r6xh3ppryiy0yu14r.png)](https://asciinema.org/a/9oyqtsd9r6xh3ppryiy0yu14r)
+[![asciicast](https://asciinema.org/a/35509.png)](https://asciinema.org/a/35509)
 
 ###Avilable commands : 
 #### To browse all the icons.
