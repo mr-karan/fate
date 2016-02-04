@@ -16,10 +16,14 @@ or
 [![asciicast](https://asciinema.org/a/9oyqtsd9r6xh3ppryiy0yu14r.png)](https://asciinema.org/a/9oyqtsd9r6xh3ppryiy0yu14r)
 
 ###Avilable commands : 
-#### To browse all the icons 
+#### To browse all the icons.
+
 `fate --icon `
 
 ![icon](screenshots/icon.png)
+
+![icon](screenshots/auto.png)
+
 #### To narrow down you search with FontAwesome filter tags, use --filter or -f
 `fate -filter`
 
