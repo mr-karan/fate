@@ -11,7 +11,7 @@ except (IOError, ImportError):
 with open('requirements.txt') as f:
     requirements = f.read().splitlines()
 
-version = '0.9'
+version = '0.91'
 
 setup(
     name='fate',
