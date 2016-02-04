@@ -8,10 +8,10 @@
 >fate is a simple CLI program which let's you browse FontAwesome icons on your terminal. 
 Note : Python3+ only.
 
-Install Instructions : 
-`pip install fate`
-or 
-`pip install git+https://github.com/mr-karan/fate.git`
+### Installation : 
+
+> `pip install fate`
+
 
 [![asciicast](https://asciinema.org/a/9oyqtsd9r6xh3ppryiy0yu14r.png)](https://asciinema.org/a/9oyqtsd9r6xh3ppryiy0yu14r)
 
@@ -28,16 +28,18 @@ or
 `fate -filter`
 
 ![icon](screenshots/filter.png)
-#### To narrow down your search with aliases tag, use --aliases or -a
+##### To narrow down your search with aliases tag, use --aliases or -a
 `fate --aliases`
 
 ![icon](screenshots/aliases.png)
-#### To narrow down your search with categories tag, use --category or -c
+##### To narrow down your search with categories tag, use --category or -c
 `fate --category`
 
 ![icon](screenshots/category.png)
-#### To echo the icon `[name/ unicode/ html]` hex use it with -e or --echo
-#####Example : 
+##### To echo the icon `[name/ unicode/ html]` hex use it with -e or --echo
+
+> Example : 
+
 `fate -i -e name`
 
 ![icon](screenshots/echo.png)
