@@ -9,8 +9,8 @@ import pyperclip
 from prompt_toolkit import prompt
 from prompt_toolkit.contrib.completers import WordCompleter
 from collections import namedtuple
-from helpers import *
-parser = argparse.ArgumentParser(prog='fa-cli', description='FontAwesome CLI')
+from .helpers import *
+parser = argparse.ArgumentParser(prog='fate', description='FontAwesome on Terminal')
 parser.add_argument('-i', '--icon', action='store_true', help='Enter icon name')
 parser.add_argument('-f', '--filter', action='store_true', help='Filter Font awesome icons')
 parser.add_argument('-a', '--aliases', action='store_true', help='Aliases')
@@ -18,10 +18,9 @@ parser.add_argument('-c', '--category', action='store_true', help='Category Icon
 parser.add_argument('-e','--echo', type=str, nargs=1, action='store', help='Copies the data to your clipboard', metavar = ("name/unicode/icon"))
 args = parser.parse_args()
 
-# Outputs the icon details to the user. Also copies the data to clipboard if -e [data] is present.
 
 def main():
-
+    # Output the icon details to the user
     def message(give_id, text):
         try:
             if give_id[text]:
@@ -56,7 +55,6 @@ def main():
         clean_source = clean((yaml.load(yaml_file))['icons'])
         # Used to store IconData in a namedtupe data structure.
         data = namedtuple('IconData', 'categories filter id unicode aliases')
-
         icon_data = [data(i['categories'], i['filter'], i['id'], i['unicode'], i['aliases']) for i in clean_source]
         with open('.fa_cache', 'w') as the_file:
             the_file.write(json.dumps(icon_data, indent=2))
@@ -71,7 +69,7 @@ def main():
     if args.filter:
         # Second parameter(1) is the positon of the attribute in IconData()
         search_by_filter = icon_list(icon_data, 1)
-        # Appends all the categories of FA and set() to remove duplicate entries filling up
+        # Appends all the categories of FA and set() is used to remove duplicate entries filling up
         f_completer = WordCompleter(list(set([k for i in search_by_filter for k in i])))
         textf = prompt('Search By Filter: ', completer=f_completer)
         # Gives the list of icons which matched that category
@@ -93,7 +91,6 @@ def main():
         print(message(give_id, texti))
 
     if args.category:
-        # 0 because the position of category in IconData() is the first one.
         search_by_category = icon_list(icon_data, 0)
         f_completer = WordCompleter(list(set([k for i in search_by_category for k in i])))
         textf = prompt('Search By Category: ', completer=f_completer)

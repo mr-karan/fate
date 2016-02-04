@@ -23,7 +23,7 @@ setup(
     include_package_data=True,
     url='https://github.com/mr-karan/fate/',
     license='MIT',
-    description='Browse FontAwesome in your terminal',
+    description='Browse FontAwesome Icons in your terminal',
     long_description=long_description,
     scripts=['bin/fate'],
     classifiers=[

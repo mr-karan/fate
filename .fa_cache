@@ -1,0 +1,6958 @@
+[
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "martini",
+      "drink",
+      "bar",
+      "alcohol",
+      "liquor"
+    ],
+    "glass",
+    "f000",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "note",
+      "sound"
+    ],
+    "music",
+    "f001",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "magnify",
+      "zoom",
+      "enlarge",
+      "bigger"
+    ],
+    "search",
+    "f002",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "email",
+      "support",
+      "e-mail",
+      "letter",
+      "mail",
+      "notification"
+    ],
+    "envelope-o",
+    "f003",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons",
+      "Medical Icons"
+    ],
+    [
+      "love",
+      "like",
+      "favorite"
+    ],
+    "heart",
+    "f004",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "award",
+      "achievement",
+      "night",
+      "rating",
+      "score"
+    ],
+    "star",
+    "f005",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "award",
+      "achievement",
+      "night",
+      "rating",
+      "score"
+    ],
+    "star-o",
+    "f006",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "person",
+      "man",
+      "head",
+      "profile"
+    ],
+    "user",
+    "f007",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "movie"
+    ],
+    "film",
+    "f008",
+    ""
+  ],
+  [
+    [
+      "Text Editor Icons"
+    ],
+    [
+      "blocks",
+      "squares",
+      "boxes",
+      "grid"
+    ],
+    "th-large",
+    "f009",
+    ""
+  ],
+  [
+    [
+      "Text Editor Icons"
+    ],
+    [
+      "blocks",
+      "squares",
+      "boxes",
+      "grid"
+    ],
+    "th",
+    "f00a",
+    ""
+  ],
+  [
+    [
+      "Text Editor Icons"
+    ],
+    [
+      "ul",
+      "ol",
+      "checklist",
+      "finished",
+      "completed",
+      "done",
+      "todo"
+    ],
+    "th-list",
+    "f00b",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "checkmark",
+      "done",
+      "todo",
+      "agree",
+      "accept",
+      "confirm",
+      "tick"
+    ],
+    "check",
+    "f00c",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "close",
+      "exit",
+      "x",
+      "cross"
+    ],
+    "times",
+    "f00d",
+    [
+      "remove",
+      "close"
+    ]
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "magnify",
+      "zoom",
+      "enlarge",
+      "bigger"
+    ],
+    "search-plus",
+    "f00e",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "magnify",
+      "minify",
+      "zoom",
+      "smaller"
+    ],
+    "search-minus",
+    "f010",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "on"
+    ],
+    "power-off",
+    "f011",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    "",
+    "signal",
+    "f012",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons",
+      "Spinner Icons"
+    ],
+    [
+      "settings"
+    ],
+    "cog",
+    "f013",
+    [
+      "gear"
+    ]
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "garbage",
+      "delete",
+      "remove",
+      "trash",
+      "hide"
+    ],
+    "trash-o",
+    "f014",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "main",
+      "house"
+    ],
+    "home",
+    "f015",
+    ""
+  ],
+  [
+    [
+      "Text Editor Icons",
+      "File Type Icons"
+    ],
+    [
+      "new",
+      "page",
+      "pdf",
+      "document"
+    ],
+    "file-o",
+    "f016",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "watch",
+      "timer",
+      "late",
+      "timestamp"
+    ],
+    "clock-o",
+    "f017",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "street"
+    ],
+    "road",
+    "f018",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "import"
+    ],
+    "download",
+    "f019",
+    ""
+  ],
+  [
+    [
+      "Directional Icons"
+    ],
+    [
+      "download"
+    ],
+    "arrow-circle-o-down",
+    "f01a",
+    ""
+  ],
+  [
+    [
+      "Directional Icons"
+    ],
+    "",
+    "arrow-circle-o-up",
+    "f01b",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    "",
+    "inbox",
+    "f01c",
+    ""
+  ],
+  [
+    [
+      "Video Player Icons"
+    ],
+    "",
+    "play-circle-o",
+    "f01d",
+    ""
+  ],
+  [
+    [
+      "Text Editor Icons"
+    ],
+    [
+      "redo",
+      "forward"
+    ],
+    "repeat",
+    "f01e",
+    [
+      "rotate-right"
+    ]
+  ],
+  [
+    [
+      "Web Application Icons",
+      "Spinner Icons"
+    ],
+    [
+      "reload",
+      "sync"
+    ],
+    "refresh",
+    "f021",
+    ""
+  ],
+  [
+    [
+      "Text Editor Icons"
+    ],
+    [
+      "ul",
+      "ol",
+      "checklist",
+      "finished",
+      "completed",
+      "done",
+      "todo"
+    ],
+    "list-alt",
+    "f022",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "protect",
+      "admin"
+    ],
+    "lock",
+    "f023",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "report",
+      "notification",
+      "notify"
+    ],
+    "flag",
+    "f024",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "sound",
+      "listen",
+      "music"
+    ],
+    "headphones",
+    "f025",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "mute",
+      "sound",
+      "music"
+    ],
+    "volume-off",
+    "f026",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "lower",
+      "quieter",
+      "sound",
+      "music"
+    ],
+    "volume-down",
+    "f027",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "higher",
+      "louder",
+      "sound",
+      "music"
+    ],
+    "volume-up",
+    "f028",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "scan"
+    ],
+    "qrcode",
+    "f029",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "scan"
+    ],
+    "barcode",
+    "f02a",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "label"
+    ],
+    "tag",
+    "f02b",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "labels"
+    ],
+    "tags",
+    "f02c",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "read",
+      "documentation"
+    ],
+    "book",
+    "f02d",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "save"
+    ],
+    "bookmark",
+    "f02e",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    "",
+    "print",
+    "f02f",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "photo",
+      "picture",
+      "record"
+    ],
+    "camera",
+    "f030",
+    ""
+  ],
+  [
+    [
+      "Text Editor Icons"
+    ],
+    [
+      "text"
+    ],
+    "font",
+    "f031",
+    ""
+  ],
+  [
+    [
+      "Text Editor Icons"
+    ],
+    "",
+    "bold",
+    "f032",
+    ""
+  ],
+  [
+    [
+      "Text Editor Icons"
+    ],
+    [
+      "italics"
+    ],
+    "italic",
+    "f033",
+    ""
+  ],
+  [
+    [
+      "Text Editor Icons"
+    ],
+    "",
+    "text-height",
+    "f034",
+    ""
+  ],
+  [
+    [
+      "Text Editor Icons"
+    ],
+    "",
+    "text-width",
+    "f035",
+    ""
+  ],
+  [
+    [
+      "Text Editor Icons"
+    ],
+    [
+      "text"
+    ],
+    "align-left",
+    "f036",
+    ""
+  ],
+  [
+    [
+      "Text Editor Icons"
+    ],
+    [
+      "middle",
+      "text"
+    ],
+    "align-center",
+    "f037",
+    ""
+  ],
+  [
+    [
+      "Text Editor Icons"
+    ],
+    [
+      "text"
+    ],
+    "align-right",
+    "f038",
+    ""
+  ],
+  [
+    [
+      "Text Editor Icons"
+    ],
+    [
+      "text"
+    ],
+    "align-justify",
+    "f039",
+    ""
+  ],
+  [
+    [
+      "Text Editor Icons"
+    ],
+    [
+      "ul",
+      "ol",
+      "checklist",
+      "finished",
+      "completed",
+      "done",
+      "todo"
+    ],
+    "list",
+    "f03a",
+    ""
+  ],
+  [
+    [
+      "Text Editor Icons"
+    ],
+    "",
+    "outdent",
+    "f03b",
+    [
+      "dedent"
+    ]
+  ],
+  [
+    [
+      "Text Editor Icons"
+    ],
+    "",
+    "indent",
+    "f03c",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "film",
+      "movie",
+      "record"
+    ],
+    "video-camera",
+    "f03d",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    "",
+    "picture-o",
+    "f03e",
+    [
+      "photo",
+      "image"
+    ]
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "write",
+      "edit",
+      "update"
+    ],
+    "pencil",
+    "f040",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "map",
+      "pin",
+      "location",
+      "coordinates",
+      "localize",
+      "address",
+      "travel",
+      "where",
+      "place"
+    ],
+    "map-marker",
+    "f041",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "contrast"
+    ],
+    "adjust",
+    "f042",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "raindrop",
+      "waterdrop",
+      "drop",
+      "droplet"
+    ],
+    "tint",
+    "f043",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "write",
+      "edit",
+      "update"
+    ],
+    "pencil-square-o",
+    "f044",
+    [
+      "edit"
+    ]
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "social",
+      "send"
+    ],
+    "share-square-o",
+    "f045",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons",
+      "Form Control Icons"
+    ],
+    [
+      "todo",
+      "done",
+      "agree",
+      "accept",
+      "confirm"
+    ],
+    "check-square-o",
+    "f046",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons",
+      "Directional Icons"
+    ],
+    [
+      "move",
+      "reorder",
+      "resize"
+    ],
+    "arrows",
+    "f047",
+    ""
+  ],
+  [
+    [
+      "Video Player Icons"
+    ],
+    [
+      "rewind",
+      "previous",
+      "beginning",
+      "start",
+      "first"
+    ],
+    "step-backward",
+    "f048",
+    ""
+  ],
+  [
+    [
+      "Video Player Icons"
+    ],
+    [
+      "rewind",
+      "previous",
+      "beginning",
+      "start",
+      "first"
+    ],
+    "fast-backward",
+    "f049",
+    ""
+  ],
+  [
+    [
+      "Video Player Icons"
+    ],
+    [
+      "rewind",
+      "previous"
+    ],
+    "backward",
+    "f04a",
+    ""
+  ],
+  [
+    [
+      "Video Player Icons"
+    ],
+    [
+      "start",
+      "playing",
+      "music",
+      "sound"
+    ],
+    "play",
+    "f04b",
+    ""
+  ],
+  [
+    [
+      "Video Player Icons"
+    ],
+    [
+      "wait"
+    ],
+    "pause",
+    "f04c",
+    ""
+  ],
+  [
+    [
+      "Video Player Icons"
+    ],
+    [
+      "block",
+      "box",
+      "square"
+    ],
+    "stop",
+    "f04d",
+    ""
+  ],
+  [
+    [
+      "Video Player Icons"
+    ],
+    [
+      "forward",
+      "next"
+    ],
+    "forward",
+    "f04e",
+    ""
+  ],
+  [
+    [
+      "Video Player Icons"
+    ],
+    [
+      "next",
+      "end",
+      "last"
+    ],
+    "fast-forward",
+    "f050",
+    ""
+  ],
+  [
+    [
+      "Video Player Icons"
+    ],
+    [
+      "next",
+      "end",
+      "last"
+    ],
+    "step-forward",
+    "f051",
+    ""
+  ],
+  [
+    [
+      "Video Player Icons"
+    ],
+    "",
+    "eject",
+    "f052",
+    ""
+  ],
+  [
+    [
+      "Directional Icons"
+    ],
+    [
+      "bracket",
+      "previous",
+      "back"
+    ],
+    "chevron-left",
+    "f053",
+    ""
+  ],
+  [
+    [
+      "Directional Icons"
+    ],
+    [
+      "bracket",
+      "next",
+      "forward"
+    ],
+    "chevron-right",
+    "f054",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "add",
+      "new",
+      "create",
+      "expand"
+    ],
+    "plus-circle",
+    "f055",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "delete",
+      "remove",
+      "trash",
+      "hide"
+    ],
+    "minus-circle",
+    "f056",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "close",
+      "exit",
+      "x"
+    ],
+    "times-circle",
+    "f057",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "todo",
+      "done",
+      "agree",
+      "accept",
+      "confirm"
+    ],
+    "check-circle",
+    "f058",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "help",
+      "information",
+      "unknown",
+      "support"
+    ],
+    "question-circle",
+    "f059",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "help",
+      "information",
+      "more",
+      "details"
+    ],
+    "info-circle",
+    "f05a",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "picker"
+    ],
+    "crosshairs",
+    "f05b",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "close",
+      "exit",
+      "x"
+    ],
+    "times-circle-o",
+    "f05c",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "todo",
+      "done",
+      "agree",
+      "accept",
+      "confirm"
+    ],
+    "check-circle-o",
+    "f05d",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "delete",
+      "remove",
+      "trash",
+      "hide",
+      "block",
+      "stop",
+      "abort",
+      "cancel"
+    ],
+    "ban",
+    "f05e",
+    ""
+  ],
+  [
+    [
+      "Directional Icons"
+    ],
+    [
+      "previous",
+      "back"
+    ],
+    "arrow-left",
+    "f060",
+    ""
+  ],
+  [
+    [
+      "Directional Icons"
+    ],
+    [
+      "next",
+      "forward"
+    ],
+    "arrow-right",
+    "f061",
+    ""
+  ],
+  [
+    [
+      "Directional Icons"
+    ],
+    "",
+    "arrow-up",
+    "f062",
+    ""
+  ],
+  [
+    [
+      "Directional Icons"
+    ],
+    [
+      "download"
+    ],
+    "arrow-down",
+    "f063",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    "",
+    "share",
+    "f064",
+    [
+      "mail-forward"
+    ]
+  ],
+  [
+    [
+      "Video Player Icons"
+    ],
+    [
+      "enlarge",
+      "bigger",
+      "resize"
+    ],
+    "expand",
+    "f065",
+    ""
+  ],
+  [
+    [
+      "Video Player Icons"
+    ],
+    [
+      "collapse",
+      "combine",
+      "contract",
+      "merge",
+      "smaller"
+    ],
+    "compress",
+    "f066",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "add",
+      "new",
+      "create",
+      "expand"
+    ],
+    "plus",
+    "f067",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "hide",
+      "minify",
+      "delete",
+      "remove",
+      "trash",
+      "hide",
+      "collapse"
+    ],
+    "minus",
+    "f068",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "details"
+    ],
+    "asterisk",
+    "f069",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "warning",
+      "error",
+      "problem",
+      "notification",
+      "alert"
+    ],
+    "exclamation-circle",
+    "f06a",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "present"
+    ],
+    "gift",
+    "f06b",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "eco",
+      "nature"
+    ],
+    "leaf",
+    "f06c",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "flame",
+      "hot",
+      "popular"
+    ],
+    "fire",
+    "f06d",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "show",
+      "visible",
+      "views"
+    ],
+    "eye",
+    "f06e",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "toggle",
+      "show",
+      "hide",
+      "visible",
+      "visiblity",
+      "views"
+    ],
+    "eye-slash",
+    "f070",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "warning",
+      "error",
+      "problem",
+      "notification",
+      "alert"
+    ],
+    "exclamation-triangle",
+    "f071",
+    [
+      "warning"
+    ]
+  ],
+  [
+    [
+      "Web Application Icons",
+      "Transportation Icons"
+    ],
+    [
+      "travel",
+      "trip",
+      "location",
+      "destination",
+      "airplane",
+      "fly",
+      "mode"
+    ],
+    "plane",
+    "f072",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "date",
+      "time",
+      "when"
+    ],
+    "calendar",
+    "f073",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons",
+      "Video Player Icons"
+    ],
+    [
+      "sort",
+      "shuffle"
+    ],
+    "random",
+    "f074",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "speech",
+      "notification",
+      "note",
+      "chat",
+      "bubble",
+      "feedback"
+    ],
+    "comment",
+    "f075",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    "",
+    "magnet",
+    "f076",
+    ""
+  ],
+  [
+    [
+      "Directional Icons"
+    ],
+    "",
+    "chevron-up",
+    "f077",
+    ""
+  ],
+  [
+    [
+      "Directional Icons"
+    ],
+    "",
+    "chevron-down",
+    "f078",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "refresh",
+      "reload",
+      "share"
+    ],
+    "retweet",
+    "f079",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "checkout",
+      "buy",
+      "purchase",
+      "payment"
+    ],
+    "shopping-cart",
+    "f07a",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    "",
+    "folder",
+    "f07b",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    "",
+    "folder-open",
+    "f07c",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons",
+      "Directional Icons"
+    ],
+    [
+      "resize"
+    ],
+    "arrows-v",
+    "f07d",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons",
+      "Directional Icons"
+    ],
+    [
+      "resize"
+    ],
+    "arrows-h",
+    "f07e",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons",
+      "Chart Icons"
+    ],
+    [
+      "graph",
+      "analytics"
+    ],
+    "bar-chart",
+    "f080",
+    [
+      "bar-chart-o"
+    ]
+  ],
+  [
+    [
+      "Brand Icons"
+    ],
+    [
+      "tweet",
+      "social network"
+    ],
+    "twitter-square",
+    "f081",
+    ""
+  ],
+  [
+    [
+      "Brand Icons"
+    ],
+    [
+      "social network"
+    ],
+    "facebook-square",
+    "f082",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "photo",
+      "picture",
+      "record"
+    ],
+    "camera-retro",
+    "f083",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "unlock",
+      "password"
+    ],
+    "key",
+    "f084",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "settings"
+    ],
+    "cogs",
+    "f085",
+    [
+      "gears"
+    ]
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "conversation",
+      "notification",
+      "notes"
+    ],
+    "comments",
+    "f086",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons",
+      "Hand Icons"
+    ],
+    [
+      "like",
+      "approve",
+      "favorite",
+      "agree",
+      "hand"
+    ],
+    "thumbs-o-up",
+    "f087",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons",
+      "Hand Icons"
+    ],
+    [
+      "dislike",
+      "disapprove",
+      "disagree",
+      "hand"
+    ],
+    "thumbs-o-down",
+    "f088",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "award",
+      "achievement",
+      "rating",
+      "score"
+    ],
+    "star-half",
+    "f089",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons",
+      "Medical Icons"
+    ],
+    [
+      "love",
+      "like",
+      "favorite"
+    ],
+    "heart-o",
+    "f08a",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "log out",
+      "logout",
+      "leave",
+      "exit",
+      "arrow"
+    ],
+    "sign-out",
+    "f08b",
+    ""
+  ],
+  [
+    [
+      "Brand Icons"
+    ],
+    "",
+    "linkedin-square",
+    "f08c",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "marker",
+      "pin",
+      "location",
+      "coordinates"
+    ],
+    "thumb-tack",
+    "f08d",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "open",
+      "new"
+    ],
+    "external-link",
+    "f08e",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "enter",
+      "join",
+      "log in",
+      "login",
+      "sign up",
+      "sign in",
+      "signin",
+      "signup",
+      "arrow"
+    ],
+    "sign-in",
+    "f090",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "award",
+      "achievement",
+      "winner",
+      "game"
+    ],
+    "trophy",
+    "f091",
+    ""
+  ],
+  [
+    [
+      "Brand Icons"
+    ],
+    [
+      "octocat"
+    ],
+    "github-square",
+    "f092",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "import"
+    ],
+    "upload",
+    "f093",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    "",
+    "lemon-o",
+    "f094",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "call",
+      "voice",
+      "number",
+      "support",
+      "earphone"
+    ],
+    "phone",
+    "f095",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons",
+      "Form Control Icons"
+    ],
+    [
+      "block",
+      "square",
+      "box"
+    ],
+    "square-o",
+    "f096",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "save"
+    ],
+    "bookmark-o",
+    "f097",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "call",
+      "voice",
+      "number",
+      "support"
+    ],
+    "phone-square",
+    "f098",
+    ""
+  ],
+  [
+    [
+      "Brand Icons"
+    ],
+    [
+      "tweet",
+      "social network"
+    ],
+    "twitter",
+    "f099",
+    ""
+  ],
+  [
+    [
+      "Brand Icons"
+    ],
+    [
+      "social network"
+    ],
+    "facebook",
+    "f09a",
+    [
+      "facebook-f"
+    ]
+  ],
+  [
+    [
+      "Brand Icons"
+    ],
+    [
+      "octocat"
+    ],
+    "github",
+    "f09b",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "protect",
+      "admin",
+      "password",
+      "lock"
+    ],
+    "unlock",
+    "f09c",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons",
+      "Payment Icons"
+    ],
+    [
+      "money",
+      "buy",
+      "debit",
+      "checkout",
+      "purchase",
+      "payment"
+    ],
+    "credit-card",
+    "f09d",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "blog"
+    ],
+    "rss",
+    "f09e",
+    [
+      "feed"
+    ]
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "harddrive",
+      "hard drive",
+      "storage",
+      "save"
+    ],
+    "hdd-o",
+    "f0a0",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "announcement",
+      "share",
+      "broadcast",
+      "louder"
+    ],
+    "bullhorn",
+    "f0a1",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "alert",
+      "reminder",
+      "notification"
+    ],
+    "bell",
+    "f0f3",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "badge",
+      "star"
+    ],
+    "certificate",
+    "f0a3",
+    ""
+  ],
+  [
+    [
+      "Directional Icons",
+      "Hand Icons"
+    ],
+    [
+      "point",
+      "right",
+      "next",
+      "forward"
+    ],
+    "hand-o-right",
+    "f0a4",
+    ""
+  ],
+  [
+    [
+      "Directional Icons",
+      "Hand Icons"
+    ],
+    [
+      "point",
+      "left",
+      "previous",
+      "back"
+    ],
+    "hand-o-left",
+    "f0a5",
+    ""
+  ],
+  [
+    [
+      "Directional Icons",
+      "Hand Icons"
+    ],
+    [
+      "point"
+    ],
+    "hand-o-up",
+    "f0a6",
+    ""
+  ],
+  [
+    [
+      "Directional Icons",
+      "Hand Icons"
+    ],
+    [
+      "point"
+    ],
+    "hand-o-down",
+    "f0a7",
+    ""
+  ],
+  [
+    [
+      "Directional Icons"
+    ],
+    [
+      "previous",
+      "back"
+    ],
+    "arrow-circle-left",
+    "f0a8",
+    ""
+  ],
+  [
+    [
+      "Directional Icons"
+    ],
+    [
+      "next",
+      "forward"
+    ],
+    "arrow-circle-right",
+    "f0a9",
+    ""
+  ],
+  [
+    [
+      "Directional Icons"
+    ],
+    "",
+    "arrow-circle-up",
+    "f0aa",
+    ""
+  ],
+  [
+    [
+      "Directional Icons"
+    ],
+    [
+      "download"
+    ],
+    "arrow-circle-down",
+    "f0ab",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "world",
+      "planet",
+      "map",
+      "place",
+      "travel",
+      "earth",
+      "global",
+      "translate",
+      "all",
+      "language",
+      "localize",
+      "location",
+      "coordinates",
+      "country"
+    ],
+    "globe",
+    "f0ac",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "settings",
+      "fix",
+      "update"
+    ],
+    "wrench",
+    "f0ad",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "progress",
+      "loading",
+      "downloading",
+      "downloads",
+      "settings"
+    ],
+    "tasks",
+    "f0ae",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "funnel",
+      "options"
+    ],
+    "filter",
+    "f0b0",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "work",
+      "business",
+      "office",
+      "luggage",
+      "bag"
+    ],
+    "briefcase",
+    "f0b1",
+    ""
+  ],
+  [
+    [
+      "Video Player Icons",
+      "Directional Icons"
+    ],
+    [
+      "expand",
+      "enlarge",
+      "fullscreen",
+      "bigger",
+      "move",
+      "reorder",
+      "resize"
+    ],
+    "arrows-alt",
+    "f0b2",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "people",
+      "profiles",
+      "persons"
+    ],
+    "users",
+    "f0c0",
+    [
+      "group"
+    ]
+  ],
+  [
+    [
+      "Text Editor Icons"
+    ],
+    [
+      "chain"
+    ],
+    "link",
+    "f0c1",
+    [
+      "chain"
+    ]
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "save"
+    ],
+    "cloud",
+    "f0c2",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "science",
+      "beaker",
+      "experimental",
+      "labs"
+    ],
+    "flask",
+    "f0c3",
+    ""
+  ],
+  [
+    [
+      "Text Editor Icons"
+    ],
+    "",
+    "scissors",
+    "f0c4",
+    [
+      "cut"
+    ]
+  ],
+  [
+    [
+      "Text Editor Icons"
+    ],
+    [
+      "duplicate"
+    ],
+    "files-o",
+    "f0c5",
+    [
+      "copy"
+    ]
+  ],
+  [
+    [
+      "Text Editor Icons"
+    ],
+    [
+      "attachment"
+    ],
+    "paperclip",
+    "f0c6",
+    ""
+  ],
+  [
+    [
+      "Text Editor Icons"
+    ],
+    "",
+    "floppy-o",
+    "f0c7",
+    [
+      "save"
+    ]
+  ],
+  [
+    [
+      "Web Application Icons",
+      "Form Control Icons"
+    ],
+    [
+      "block",
+      "box"
+    ],
+    "square",
+    "f0c8",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "menu",
+      "drag",
+      "reorder",
+      "settings",
+      "list",
+      "ul",
+      "ol",
+      "checklist",
+      "todo",
+      "list",
+      "hamburger"
+    ],
+    "bars",
+    "f0c9",
+    [
+      "navicon",
+      "reorder"
+    ]
+  ],
+  [
+    [
+      "Text Editor Icons"
+    ],
+    [
+      "ul",
+      "ol",
+      "checklist",
+      "todo",
+      "list"
+    ],
+    "list-ul",
+    "f0ca",
+    ""
+  ],
+  [
+    [
+      "Text Editor Icons"
+    ],
+    [
+      "ul",
+      "ol",
+      "checklist",
+      "list",
+      "todo",
+      "list",
+      "numbers"
+    ],
+    "list-ol",
+    "f0cb",
+    ""
+  ],
+  [
+    [
+      "Text Editor Icons"
+    ],
+    "",
+    "strikethrough",
+    "f0cc",
+    ""
+  ],
+  [
+    [
+      "Text Editor Icons"
+    ],
+    "",
+    "underline",
+    "f0cd",
+    ""
+  ],
+  [
+    [
+      "Text Editor Icons"
+    ],
+    [
+      "data",
+      "excel",
+      "spreadsheet"
+    ],
+    "table",
+    "f0ce",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "wizard",
+      "automatic",
+      "autocomplete"
+    ],
+    "magic",
+    "f0d0",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons",
+      "Transportation Icons"
+    ],
+    [
+      "shipping"
+    ],
+    "truck",
+    "f0d1",
+    ""
+  ],
+  [
+    [
+      "Brand Icons"
+    ],
+    "",
+    "pinterest",
+    "f0d2",
+    ""
+  ],
+  [
+    [
+      "Brand Icons"
+    ],
+    "",
+    "pinterest-square",
+    "f0d3",
+    ""
+  ],
+  [
+    [
+      "Brand Icons"
+    ],
+    [
+      "social network"
+    ],
+    "google-plus-square",
+    "f0d4",
+    ""
+  ],
+  [
+    [
+      "Brand Icons"
+    ],
+    [
+      "social network"
+    ],
+    "google-plus",
+    "f0d5",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons",
+      "Currency Icons"
+    ],
+    [
+      "cash",
+      "money",
+      "buy",
+      "checkout",
+      "purchase",
+      "payment"
+    ],
+    "money",
+    "f0d6",
+    ""
+  ],
+  [
+    [
+      "Directional Icons"
+    ],
+    [
+      "more",
+      "dropdown",
+      "menu",
+      "triangle down"
+    ],
+    "caret-down",
+    "f0d7",
+    ""
+  ],
+  [
+    [
+      "Directional Icons"
+    ],
+    [
+      "triangle up"
+    ],
+    "caret-up",
+    "f0d8",
+    ""
+  ],
+  [
+    [
+      "Directional Icons"
+    ],
+    [
+      "previous",
+      "back",
+      "triangle left"
+    ],
+    "caret-left",
+    "f0d9",
+    ""
+  ],
+  [
+    [
+      "Directional Icons"
+    ],
+    [
+      "next",
+      "forward",
+      "triangle right"
+    ],
+    "caret-right",
+    "f0da",
+    ""
+  ],
+  [
+    [
+      "Text Editor Icons"
+    ],
+    [
+      "split",
+      "panes"
+    ],
+    "columns",
+    "f0db",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "order"
+    ],
+    "sort",
+    "f0dc",
+    [
+      "unsorted"
+    ]
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "dropdown",
+      "more",
+      "menu"
+    ],
+    "sort-desc",
+    "f0dd",
+    [
+      "sort-down"
+    ]
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    "",
+    "sort-asc",
+    "f0de",
+    [
+      "sort-up"
+    ]
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "email",
+      "e-mail",
+      "letter",
+      "support",
+      "mail",
+      "notification"
+    ],
+    "envelope",
+    "f0e0",
+    ""
+  ],
+  [
+    [
+      "Brand Icons"
+    ],
+    "",
+    "linkedin",
+    "f0e1",
+    ""
+  ],
+  [
+    [
+      "Text Editor Icons"
+    ],
+    [
+      "back"
+    ],
+    "undo",
+    "f0e2",
+    [
+      "rotate-left"
+    ]
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    "",
+    "gavel",
+    "f0e3",
+    [
+      "legal"
+    ]
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    "",
+    "tachometer",
+    "f0e4",
+    [
+      "dashboard"
+    ]
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "notification",
+      "note"
+    ],
+    "comment-o",
+    "f0e5",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "conversation",
+      "notification",
+      "notes"
+    ],
+    "comments-o",
+    "f0e6",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "lightning",
+      "weather"
+    ],
+    "bolt",
+    "f0e7",
+    [
+      "flash"
+    ]
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "directory",
+      "hierarchy",
+      "organization"
+    ],
+    "sitemap",
+    "f0e8",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    "",
+    "umbrella",
+    "f0e9",
+    ""
+  ],
+  [
+    [
+      "Text Editor Icons"
+    ],
+    [
+      "copy"
+    ],
+    "clipboard",
+    "f0ea",
+    [
+      "paste"
+    ]
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "idea",
+      "inspiration"
+    ],
+    "lightbulb-o",
+    "f0eb",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons",
+      "Directional Icons"
+    ],
+    [
+      "transfer",
+      "arrows",
+      "arrow"
+    ],
+    "exchange",
+    "f0ec",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "import"
+    ],
+    "cloud-download",
+    "f0ed",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "import"
+    ],
+    "cloud-upload",
+    "f0ee",
+    ""
+  ],
+  [
+    [
+      "Medical Icons"
+    ],
+    [
+      "doctor",
+      "profile",
+      "medical",
+      "nurse"
+    ],
+    "user-md",
+    "f0f0",
+    ""
+  ],
+  [
+    [
+      "Medical Icons"
+    ],
+    "",
+    "stethoscope",
+    "f0f1",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "trip",
+      "luggage",
+      "travel",
+      "move",
+      "baggage"
+    ],
+    "suitcase",
+    "f0f2",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "alert",
+      "reminder",
+      "notification"
+    ],
+    "bell-o",
+    "f0a2",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "morning",
+      "mug",
+      "breakfast",
+      "tea",
+      "drink",
+      "cafe"
+    ],
+    "coffee",
+    "f0f4",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "food",
+      "restaurant",
+      "spoon",
+      "knife",
+      "dinner",
+      "eat"
+    ],
+    "cutlery",
+    "f0f5",
+    ""
+  ],
+  [
+    [
+      "Text Editor Icons",
+      "File Type Icons"
+    ],
+    [
+      "new",
+      "page",
+      "pdf",
+      "document"
+    ],
+    "file-text-o",
+    "f0f6",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "work",
+      "business",
+      "apartment",
+      "office",
+      "company"
+    ],
+    "building-o",
+    "f0f7",
+    ""
+  ],
+  [
+    [
+      "Medical Icons"
+    ],
+    [
+      "building"
+    ],
+    "hospital-o",
+    "f0f8",
+    ""
+  ],
+  [
+    [
+      "Medical Icons",
+      "Transportation Icons"
+    ],
+    [
+      "support",
+      "help"
+    ],
+    "ambulance",
+    "f0f9",
+    ""
+  ],
+  [
+    [
+      "Medical Icons"
+    ],
+    [
+      "first aid",
+      "firstaid",
+      "help",
+      "support",
+      "health"
+    ],
+    "medkit",
+    "f0fa",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons",
+      "Transportation Icons"
+    ],
+    [
+      "fly",
+      "plane",
+      "airplane",
+      "quick",
+      "fast",
+      "travel"
+    ],
+    "fighter-jet",
+    "f0fb",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "alcohol",
+      "stein",
+      "drink",
+      "mug",
+      "bar",
+      "liquor"
+    ],
+    "beer",
+    "f0fc",
+    ""
+  ],
+  [
+    [
+      "Medical Icons"
+    ],
+    [
+      "hospital",
+      "hotel"
+    ],
+    "h-square",
+    "f0fd",
+    ""
+  ],
+  [
+    [
+      "Medical Icons",
+      "Web Application Icons",
+      "Form Control Icons"
+    ],
+    [
+      "add",
+      "new",
+      "create",
+      "expand"
+    ],
+    "plus-square",
+    "f0fe",
+    ""
+  ],
+  [
+    [
+      "Directional Icons"
+    ],
+    [
+      "laquo",
+      "quote",
+      "previous",
+      "back"
+    ],
+    "angle-double-left",
+    "f100",
+    ""
+  ],
+  [
+    [
+      "Directional Icons"
+    ],
+    [
+      "raquo",
+      "quote",
+      "next",
+      "forward"
+    ],
+    "angle-double-right",
+    "f101",
+    ""
+  ],
+  [
+    [
+      "Directional Icons"
+    ],
+    "",
+    "angle-double-up",
+    "f102",
+    ""
+  ],
+  [
+    [
+      "Directional Icons"
+    ],
+    "",
+    "angle-double-down",
+    "f103",
+    ""
+  ],
+  [
+    [
+      "Directional Icons"
+    ],
+    [
+      "previous",
+      "back"
+    ],
+    "angle-left",
+    "f104",
+    ""
+  ],
+  [
+    [
+      "Directional Icons"
+    ],
+    [
+      "next",
+      "forward"
+    ],
+    "angle-right",
+    "f105",
+    ""
+  ],
+  [
+    [
+      "Directional Icons"
+    ],
+    "",
+    "angle-up",
+    "f106",
+    ""
+  ],
+  [
+    [
+      "Directional Icons"
+    ],
+    "",
+    "angle-down",
+    "f107",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "monitor",
+      "screen",
+      "desktop",
+      "computer",
+      "demo",
+      "device"
+    ],
+    "desktop",
+    "f108",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "demo",
+      "computer",
+      "device"
+    ],
+    "laptop",
+    "f109",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "ipad",
+      "device"
+    ],
+    "tablet",
+    "f10a",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "cell phone",
+      "cellphone",
+      "text",
+      "call",
+      "iphone",
+      "number"
+    ],
+    "mobile",
+    "f10b",
+    [
+      "mobile-phone"
+    ]
+  ],
+  [
+    [
+      "Web Application Icons",
+      "Form Control Icons"
+    ],
+    "",
+    "circle-o",
+    "f10c",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    "",
+    "quote-left",
+    "f10d",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    "",
+    "quote-right",
+    "f10e",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons",
+      "Spinner Icons"
+    ],
+    [
+      "loading",
+      "progress"
+    ],
+    "spinner",
+    "f110",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons",
+      "Form Control Icons"
+    ],
+    [
+      "dot",
+      "notification"
+    ],
+    "circle",
+    "f111",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    "",
+    "reply",
+    "f112",
+    [
+      "mail-reply"
+    ]
+  ],
+  [
+    [
+      "Brand Icons"
+    ],
+    [
+      "octocat"
+    ],
+    "github-alt",
+    "f113",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    "",
+    "folder-o",
+    "f114",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    "",
+    "folder-open-o",
+    "f115",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "emoticon",
+      "happy",
+      "approve",
+      "satisfied",
+      "rating"
+    ],
+    "smile-o",
+    "f118",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "emoticon",
+      "sad",
+      "disapprove",
+      "rating"
+    ],
+    "frown-o",
+    "f119",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "emoticon",
+      "rating",
+      "neutral"
+    ],
+    "meh-o",
+    "f11a",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "controller"
+    ],
+    "gamepad",
+    "f11b",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "type",
+      "input"
+    ],
+    "keyboard-o",
+    "f11c",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "report",
+      "notification"
+    ],
+    "flag-o",
+    "f11d",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "report",
+      "notification",
+      "notify"
+    ],
+    "flag-checkered",
+    "f11e",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "command",
+      "prompt",
+      "code"
+    ],
+    "terminal",
+    "f120",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "html",
+      "brackets"
+    ],
+    "code",
+    "f121",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    "",
+    "reply-all",
+    "f122",
+    [
+      "mail-reply-all"
+    ]
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "award",
+      "achievement",
+      "rating",
+      "score"
+    ],
+    "star-half-o",
+    "f123",
+    [
+      "star-half-empty",
+      "star-half-full"
+    ]
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "map",
+      "coordinates",
+      "location",
+      "address",
+      "place",
+      "where"
+    ],
+    "location-arrow",
+    "f124",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    "",
+    "crop",
+    "f125",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "git",
+      "fork",
+      "vcs",
+      "svn",
+      "github",
+      "rebase",
+      "version",
+      "merge"
+    ],
+    "code-fork",
+    "f126",
+    ""
+  ],
+  [
+    [
+      "Text Editor Icons"
+    ],
+    [
+      "remove"
+    ],
+    "chain-broken",
+    "f127",
+    [
+      "unlink"
+    ]
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "help",
+      "information",
+      "unknown",
+      "support"
+    ],
+    "question",
+    "f128",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "help",
+      "information",
+      "more",
+      "details"
+    ],
+    "info",
+    "f129",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "warning",
+      "error",
+      "problem",
+      "notification",
+      "notify",
+      "alert"
+    ],
+    "exclamation",
+    "f12a",
+    ""
+  ],
+  [
+    [
+      "Text Editor Icons"
+    ],
+    [
+      "exponential"
+    ],
+    "superscript",
+    "f12b",
+    ""
+  ],
+  [
+    [
+      "Text Editor Icons"
+    ],
+    "",
+    "subscript",
+    "f12c",
+    ""
+  ],
+  [
+    [
+      "Text Editor Icons",
+      "Web Application Icons"
+    ],
+    "",
+    "eraser",
+    "f12d",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "addon",
+      "add-on",
+      "section"
+    ],
+    "puzzle-piece",
+    "f12e",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "record",
+      "voice",
+      "sound"
+    ],
+    "microphone",
+    "f130",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "record",
+      "voice",
+      "sound",
+      "mute"
+    ],
+    "microphone-slash",
+    "f131",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "award",
+      "achievement",
+      "winner"
+    ],
+    "shield",
+    "f132",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "date",
+      "time",
+      "when"
+    ],
+    "calendar-o",
+    "f133",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    "",
+    "fire-extinguisher",
+    "f134",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons",
+      "Transportation Icons"
+    ],
+    [
+      "app"
+    ],
+    "rocket",
+    "f135",
+    ""
+  ],
+  [
+    [
+      "Brand Icons"
+    ],
+    "",
+    "maxcdn",
+    "f136",
+    ""
+  ],
+  [
+    [
+      "Directional Icons"
+    ],
+    [
+      "previous",
+      "back"
+    ],
+    "chevron-circle-left",
+    "f137",
+    ""
+  ],
+  [
+    [
+      "Directional Icons"
+    ],
+    [
+      "next",
+      "forward"
+    ],
+    "chevron-circle-right",
+    "f138",
+    ""
+  ],
+  [
+    [
+      "Directional Icons"
+    ],
+    "",
+    "chevron-circle-up",
+    "f139",
+    ""
+  ],
+  [
+    [
+      "Directional Icons"
+    ],
+    [
+      "more",
+      "dropdown",
+      "menu"
+    ],
+    "chevron-circle-down",
+    "f13a",
+    ""
+  ],
+  [
+    [
+      "Brand Icons"
+    ],
+    "",
+    "html5",
+    "f13b",
+    ""
+  ],
+  [
+    [
+      "Brand Icons"
+    ],
+    [
+      "code"
+    ],
+    "css3",
+    "f13c",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "link"
+    ],
+    "anchor",
+    "f13d",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "protect",
+      "admin",
+      "password",
+      "lock"
+    ],
+    "unlock-alt",
+    "f13e",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "target"
+    ],
+    "bullseye",
+    "f140",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "dots"
+    ],
+    "ellipsis-h",
+    "f141",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "dots"
+    ],
+    "ellipsis-v",
+    "f142",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "feed",
+      "blog"
+    ],
+    "rss-square",
+    "f143",
+    ""
+  ],
+  [
+    [
+      "Video Player Icons"
+    ],
+    [
+      "start",
+      "playing"
+    ],
+    "play-circle",
+    "f144",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "movie",
+      "pass",
+      "support"
+    ],
+    "ticket",
+    "f145",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons",
+      "Form Control Icons"
+    ],
+    [
+      "hide",
+      "minify",
+      "delete",
+      "remove",
+      "trash",
+      "hide",
+      "collapse"
+    ],
+    "minus-square",
+    "f146",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons",
+      "Form Control Icons"
+    ],
+    [
+      "hide",
+      "minify",
+      "delete",
+      "remove",
+      "trash",
+      "hide",
+      "collapse"
+    ],
+    "minus-square-o",
+    "f147",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    "",
+    "level-up",
+    "f148",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    "",
+    "level-down",
+    "f149",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons",
+      "Form Control Icons"
+    ],
+    [
+      "checkmark",
+      "done",
+      "todo",
+      "agree",
+      "accept",
+      "confirm"
+    ],
+    "check-square",
+    "f14a",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "write",
+      "edit",
+      "update"
+    ],
+    "pencil-square",
+    "f14b",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "open",
+      "new"
+    ],
+    "external-link-square",
+    "f14c",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "social",
+      "send"
+    ],
+    "share-square",
+    "f14d",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "safari",
+      "directory",
+      "menu",
+      "location"
+    ],
+    "compass",
+    "f14e",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons",
+      "Directional Icons"
+    ],
+    [
+      "more",
+      "dropdown",
+      "menu"
+    ],
+    "caret-square-o-down",
+    "f150",
+    [
+      "toggle-down"
+    ]
+  ],
+  [
+    [
+      "Web Application Icons",
+      "Directional Icons"
+    ],
+    "",
+    "caret-square-o-up",
+    "f151",
+    [
+      "toggle-up"
+    ]
+  ],
+  [
+    [
+      "Web Application Icons",
+      "Directional Icons"
+    ],
+    [
+      "next",
+      "forward"
+    ],
+    "caret-square-o-right",
+    "f152",
+    [
+      "toggle-right"
+    ]
+  ],
+  [
+    [
+      "Currency Icons"
+    ],
+    "",
+    "eur",
+    "f153",
+    [
+      "euro"
+    ]
+  ],
+  [
+    [
+      "Currency Icons"
+    ],
+    "",
+    "gbp",
+    "f154",
+    ""
+  ],
+  [
+    [
+      "Currency Icons"
+    ],
+    "",
+    "usd",
+    "f155",
+    [
+      "dollar"
+    ]
+  ],
+  [
+    [
+      "Currency Icons"
+    ],
+    "",
+    "inr",
+    "f156",
+    [
+      "rupee"
+    ]
+  ],
+  [
+    [
+      "Currency Icons"
+    ],
+    "",
+    "jpy",
+    "f157",
+    [
+      "cny",
+      "rmb",
+      "yen"
+    ]
+  ],
+  [
+    [
+      "Currency Icons"
+    ],
+    "",
+    "rub",
+    "f158",
+    [
+      "ruble",
+      "rouble"
+    ]
+  ],
+  [
+    [
+      "Currency Icons"
+    ],
+    "",
+    "krw",
+    "f159",
+    [
+      "won"
+    ]
+  ],
+  [
+    [
+      "Currency Icons",
+      "Brand Icons"
+    ],
+    "",
+    "btc",
+    "f15a",
+    [
+      "bitcoin"
+    ]
+  ],
+  [
+    [
+      "Text Editor Icons",
+      "File Type Icons"
+    ],
+    [
+      "new",
+      "page",
+      "pdf",
+      "document"
+    ],
+    "file",
+    "f15b",
+    ""
+  ],
+  [
+    [
+      "Text Editor Icons",
+      "File Type Icons"
+    ],
+    [
+      "new",
+      "page",
+      "pdf",
+      "document"
+    ],
+    "file-text",
+    "f15c",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    "",
+    "sort-alpha-asc",
+    "f15d",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    "",
+    "sort-alpha-desc",
+    "f15e",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    "",
+    "sort-amount-asc",
+    "f160",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    "",
+    "sort-amount-desc",
+    "f161",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "numbers"
+    ],
+    "sort-numeric-asc",
+    "f162",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "numbers"
+    ],
+    "sort-numeric-desc",
+    "f163",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons",
+      "Hand Icons"
+    ],
+    [
+      "like",
+      "favorite",
+      "approve",
+      "agree",
+      "hand"
+    ],
+    "thumbs-up",
+    "f164",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons",
+      "Hand Icons"
+    ],
+    [
+      "dislike",
+      "disapprove",
+      "disagree",
+      "hand"
+    ],
+    "thumbs-down",
+    "f165",
+    ""
+  ],
+  [
+    [
+      "Brand Icons"
+    ],
+    [
+      "video",
+      "film"
+    ],
+    "youtube-square",
+    "f166",
+    ""
+  ],
+  [
+    [
+      "Brand Icons"
+    ],
+    [
+      "video",
+      "film"
+    ],
+    "youtube",
+    "f167",
+    ""
+  ],
+  [
+    [
+      "Brand Icons"
+    ],
+    "",
+    "xing",
+    "f168",
+    ""
+  ],
+  [
+    [
+      "Brand Icons"
+    ],
+    "",
+    "xing-square",
+    "f169",
+    ""
+  ],
+  [
+    [
+      "Brand Icons",
+      "Video Player Icons"
+    ],
+    [
+      "start",
+      "playing"
+    ],
+    "youtube-play",
+    "f16a",
+    ""
+  ],
+  [
+    [
+      "Brand Icons"
+    ],
+    "",
+    "dropbox",
+    "f16b",
+    ""
+  ],
+  [
+    [
+      "Brand Icons"
+    ],
+    "",
+    "stack-overflow",
+    "f16c",
+    ""
+  ],
+  [
+    [
+      "Brand Icons"
+    ],
+    "",
+    "instagram",
+    "f16d",
+    ""
+  ],
+  [
+    [
+      "Brand Icons"
+    ],
+    "",
+    "flickr",
+    "f16e",
+    ""
+  ],
+  [
+    [
+      "Brand Icons"
+    ],
+    "",
+    "adn",
+    "f170",
+    ""
+  ],
+  [
+    [
+      "Brand Icons"
+    ],
+    [
+      "git"
+    ],
+    "bitbucket",
+    "f171",
+    ""
+  ],
+  [
+    [
+      "Brand Icons"
+    ],
+    [
+      "git"
+    ],
+    "bitbucket-square",
+    "f172",
+    ""
+  ],
+  [
+    [
+      "Brand Icons"
+    ],
+    "",
+    "tumblr",
+    "f173",
+    ""
+  ],
+  [
+    [
+      "Brand Icons"
+    ],
+    "",
+    "tumblr-square",
+    "f174",
+    ""
+  ],
+  [
+    [
+      "Directional Icons"
+    ],
+    "",
+    "long-arrow-down",
+    "f175",
+    ""
+  ],
+  [
+    [
+      "Directional Icons"
+    ],
+    "",
+    "long-arrow-up",
+    "f176",
+    ""
+  ],
+  [
+    [
+      "Directional Icons"
+    ],
+    [
+      "previous",
+      "back"
+    ],
+    "long-arrow-left",
+    "f177",
+    ""
+  ],
+  [
+    [
+      "Directional Icons"
+    ],
+    "",
+    "long-arrow-right",
+    "f178",
+    ""
+  ],
+  [
+    [
+      "Brand Icons"
+    ],
+    [
+      "osx"
+    ],
+    "apple",
+    "f179",
+    ""
+  ],
+  [
+    [
+      "Brand Icons"
+    ],
+    [
+      "microsoft"
+    ],
+    "windows",
+    "f17a",
+    ""
+  ],
+  [
+    [
+      "Brand Icons"
+    ],
+    "",
+    "android",
+    "f17b",
+    ""
+  ],
+  [
+    [
+      "Brand Icons"
+    ],
+    [
+      "tux"
+    ],
+    "linux",
+    "f17c",
+    ""
+  ],
+  [
+    [
+      "Brand Icons"
+    ],
+    "",
+    "dribbble",
+    "f17d",
+    ""
+  ],
+  [
+    [
+      "Brand Icons"
+    ],
+    "",
+    "skype",
+    "f17e",
+    ""
+  ],
+  [
+    [
+      "Brand Icons"
+    ],
+    "",
+    "foursquare",
+    "f180",
+    ""
+  ],
+  [
+    [
+      "Brand Icons"
+    ],
+    "",
+    "trello",
+    "f181",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "woman",
+      "user",
+      "person",
+      "profile"
+    ],
+    "female",
+    "f182",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "man",
+      "user",
+      "person",
+      "profile"
+    ],
+    "male",
+    "f183",
+    ""
+  ],
+  [
+    [
+      "Brand Icons"
+    ],
+    [
+      "heart",
+      "like",
+      "favorite",
+      "love"
+    ],
+    "gratipay",
+    "f184",
+    [
+      "gittip"
+    ]
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "weather",
+      "contrast",
+      "lighter",
+      "brighten",
+      "day"
+    ],
+    "sun-o",
+    "f185",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "night",
+      "darker",
+      "contrast"
+    ],
+    "moon-o",
+    "f186",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "box",
+      "storage"
+    ],
+    "archive",
+    "f187",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "report",
+      "insect"
+    ],
+    "bug",
+    "f188",
+    ""
+  ],
+  [
+    [
+      "Brand Icons"
+    ],
+    "",
+    "vk",
+    "f189",
+    ""
+  ],
+  [
+    [
+      "Brand Icons"
+    ],
+    "",
+    "weibo",
+    "f18a",
+    ""
+  ],
+  [
+    [
+      "Brand Icons"
+    ],
+    "",
+    "renren",
+    "f18b",
+    ""
+  ],
+  [
+    [
+      "Brand Icons"
+    ],
+    [
+      "leaf",
+      "leaves",
+      "tree",
+      "plant",
+      "eco",
+      "nature"
+    ],
+    "pagelines",
+    "f18c",
+    ""
+  ],
+  [
+    [
+      "Brand Icons"
+    ],
+    "",
+    "stack-exchange",
+    "f18d",
+    ""
+  ],
+  [
+    [
+      "Directional Icons"
+    ],
+    [
+      "next",
+      "forward"
+    ],
+    "arrow-circle-o-right",
+    "f18e",
+    ""
+  ],
+  [
+    [
+      "Directional Icons"
+    ],
+    [
+      "previous",
+      "back"
+    ],
+    "arrow-circle-o-left",
+    "f190",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons",
+      "Directional Icons"
+    ],
+    [
+      "previous",
+      "back"
+    ],
+    "caret-square-o-left",
+    "f191",
+    [
+      "toggle-left"
+    ]
+  ],
+  [
+    [
+      "Web Application Icons",
+      "Form Control Icons"
+    ],
+    [
+      "target",
+      "bullseye",
+      "notification"
+    ],
+    "dot-circle-o",
+    "f192",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons",
+      "Medical Icons",
+      "Transportation Icons"
+    ],
+    [
+      "handicap",
+      "person",
+      "accessibility",
+      "accessibile"
+    ],
+    "wheelchair",
+    "f193",
+    ""
+  ],
+  [
+    [
+      "Brand Icons"
+    ],
+    "",
+    "vimeo-square",
+    "f194",
+    ""
+  ],
+  [
+    [
+      "Currency Icons"
+    ],
+    "",
+    "try",
+    "f195",
+    [
+      "turkish-lira"
+    ]
+  ],
+  [
+    [
+      "Web Application Icons",
+      "Form Control Icons"
+    ],
+    [
+      "add",
+      "new",
+      "create",
+      "expand"
+    ],
+    "plus-square-o",
+    "f196",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons",
+      "Transportation Icons"
+    ],
+    null,
+    "space-shuttle",
+    "f197",
+    ""
+  ],
+  [
+    [
+      "Brand Icons"
+    ],
+    "",
+    "slack",
+    "f198",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    "",
+    "envelope-square",
+    "f199",
+    ""
+  ],
+  [
+    [
+      "Brand Icons"
+    ],
+    "",
+    "wordpress",
+    "f19a",
+    ""
+  ],
+  [
+    [
+      "Brand Icons"
+    ],
+    "",
+    "openid",
+    "f19b",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    "",
+    "university",
+    "f19c",
+    [
+      "institution",
+      "bank"
+    ]
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "learning",
+      "school",
+      "student"
+    ],
+    "graduation-cap",
+    "f19d",
+    [
+      "mortar-board"
+    ]
+  ],
+  [
+    [
+      "Brand Icons"
+    ],
+    "",
+    "yahoo",
+    "f19e",
+    ""
+  ],
+  [
+    [
+      "Brand Icons"
+    ],
+    "",
+    "google",
+    "f1a0",
+    ""
+  ],
+  [
+    [
+      "Brand Icons"
+    ],
+    "",
+    "reddit",
+    "f1a1",
+    ""
+  ],
+  [
+    [
+      "Brand Icons"
+    ],
+    "",
+    "reddit-square",
+    "f1a2",
+    ""
+  ],
+  [
+    [
+      "Brand Icons"
+    ],
+    "",
+    "stumbleupon-circle",
+    "f1a3",
+    ""
+  ],
+  [
+    [
+      "Brand Icons"
+    ],
+    "",
+    "stumbleupon",
+    "f1a4",
+    ""
+  ],
+  [
+    [
+      "Brand Icons"
+    ],
+    "",
+    "delicious",
+    "f1a5",
+    ""
+  ],
+  [
+    [
+      "Brand Icons"
+    ],
+    "",
+    "digg",
+    "f1a6",
+    ""
+  ],
+  [
+    [
+      "Brand Icons"
+    ],
+    "",
+    "pied-piper",
+    "f1a7",
+    ""
+  ],
+  [
+    [
+      "Brand Icons"
+    ],
+    "",
+    "pied-piper-alt",
+    "f1a8",
+    ""
+  ],
+  [
+    [
+      "Brand Icons"
+    ],
+    "",
+    "drupal",
+    "f1a9",
+    ""
+  ],
+  [
+    [
+      "Brand Icons"
+    ],
+    "",
+    "joomla",
+    "f1aa",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    "",
+    "language",
+    "f1ab",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    "",
+    "fax",
+    "f1ac",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "work",
+      "business",
+      "apartment",
+      "office",
+      "company"
+    ],
+    "building",
+    "f1ad",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    "",
+    "child",
+    "f1ae",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "pet"
+    ],
+    "paw",
+    "f1b0",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    "",
+    "spoon",
+    "f1b1",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    "",
+    "cube",
+    "f1b2",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    "",
+    "cubes",
+    "f1b3",
+    ""
+  ],
+  [
+    [
+      "Brand Icons"
+    ],
+    "",
+    "behance",
+    "f1b4",
+    ""
+  ],
+  [
+    [
+      "Brand Icons"
+    ],
+    "",
+    "behance-square",
+    "f1b5",
+    ""
+  ],
+  [
+    [
+      "Brand Icons"
+    ],
+    "",
+    "steam",
+    "f1b6",
+    ""
+  ],
+  [
+    [
+      "Brand Icons"
+    ],
+    "",
+    "steam-square",
+    "f1b7",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    "",
+    "recycle",
+    "f1b8",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons",
+      "Transportation Icons"
+    ],
+    [
+      "vehicle"
+    ],
+    "car",
+    "f1b9",
+    [
+      "automobile"
+    ]
+  ],
+  [
+    [
+      "Web Application Icons",
+      "Transportation Icons"
+    ],
+    [
+      "vehicle"
+    ],
+    "taxi",
+    "f1ba",
+    [
+      "cab"
+    ]
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    "",
+    "tree",
+    "f1bb",
+    ""
+  ],
+  [
+    [
+      "Brand Icons"
+    ],
+    "",
+    "spotify",
+    "f1bc",
+    ""
+  ],
+  [
+    [
+      "Brand Icons"
+    ],
+    "",
+    "deviantart",
+    "f1bd",
+    ""
+  ],
+  [
+    [
+      "Brand Icons"
+    ],
+    "",
+    "soundcloud",
+    "f1be",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    "",
+    "database",
+    "f1c0",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons",
+      "File Type Icons"
+    ],
+    "",
+    "file-pdf-o",
+    "f1c1",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons",
+      "File Type Icons"
+    ],
+    "",
+    "file-word-o",
+    "f1c2",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons",
+      "File Type Icons"
+    ],
+    "",
+    "file-excel-o",
+    "f1c3",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons",
+      "File Type Icons"
+    ],
+    "",
+    "file-powerpoint-o",
+    "f1c4",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons",
+      "File Type Icons"
+    ],
+    "",
+    "file-image-o",
+    "f1c5",
+    [
+      "file-photo-o",
+      "file-picture-o"
+    ]
+  ],
+  [
+    [
+      "Web Application Icons",
+      "File Type Icons"
+    ],
+    "",
+    "file-archive-o",
+    "f1c6",
+    [
+      "file-zip-o"
+    ]
+  ],
+  [
+    [
+      "Web Application Icons",
+      "File Type Icons"
+    ],
+    "",
+    "file-audio-o",
+    "f1c7",
+    [
+      "file-sound-o"
+    ]
+  ],
+  [
+    [
+      "Web Application Icons",
+      "File Type Icons"
+    ],
+    "",
+    "file-video-o",
+    "f1c8",
+    [
+      "file-movie-o"
+    ]
+  ],
+  [
+    [
+      "Web Application Icons",
+      "File Type Icons"
+    ],
+    "",
+    "file-code-o",
+    "f1c9",
+    ""
+  ],
+  [
+    [
+      "Brand Icons"
+    ],
+    "",
+    "vine",
+    "f1ca",
+    ""
+  ],
+  [
+    [
+      "Brand Icons"
+    ],
+    "",
+    "codepen",
+    "f1cb",
+    ""
+  ],
+  [
+    [
+      "Brand Icons"
+    ],
+    "",
+    "jsfiddle",
+    "f1cc",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    "",
+    "life-ring",
+    "f1cd",
+    [
+      "life-bouy",
+      "life-buoy",
+      "life-saver",
+      "support"
+    ]
+  ],
+  [
+    [
+      "Web Application Icons",
+      "Spinner Icons"
+    ],
+    "",
+    "circle-o-notch",
+    "f1ce",
+    ""
+  ],
+  [
+    [
+      "Brand Icons"
+    ],
+    "",
+    "rebel",
+    "f1d0",
+    [
+      "ra"
+    ]
+  ],
+  [
+    [
+      "Brand Icons"
+    ],
+    "",
+    "empire",
+    "f1d1",
+    [
+      "ge"
+    ]
+  ],
+  [
+    [
+      "Brand Icons"
+    ],
+    "",
+    "git-square",
+    "f1d2",
+    ""
+  ],
+  [
+    [
+      "Brand Icons"
+    ],
+    "",
+    "git",
+    "f1d3",
+    ""
+  ],
+  [
+    [
+      "Brand Icons"
+    ],
+    "",
+    "hacker-news",
+    "f1d4",
+    [
+      "y-combinator-square",
+      "yc-square"
+    ]
+  ],
+  [
+    [
+      "Brand Icons"
+    ],
+    "",
+    "tencent-weibo",
+    "f1d5",
+    ""
+  ],
+  [
+    [
+      "Brand Icons"
+    ],
+    "",
+    "qq",
+    "f1d6",
+    ""
+  ],
+  [
+    [
+      "Brand Icons"
+    ],
+    "",
+    "weixin",
+    "f1d7",
+    [
+      "wechat"
+    ]
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    null,
+    "paper-plane",
+    "f1d8",
+    [
+      "send"
+    ]
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    "",
+    "paper-plane-o",
+    "f1d9",
+    [
+      "send-o"
+    ]
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    "",
+    "history",
+    "f1da",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    "",
+    "circle-thin",
+    "f1db",
+    ""
+  ],
+  [
+    [
+      "Text Editor Icons"
+    ],
+    [
+      "heading"
+    ],
+    "header",
+    "f1dc",
+    ""
+  ],
+  [
+    [
+      "Text Editor Icons"
+    ],
+    "",
+    "paragraph",
+    "f1dd",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    "",
+    "sliders",
+    "f1de",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons",
+      "Brand Icons"
+    ],
+    "",
+    "share-alt",
+    "f1e0",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons",
+      "Brand Icons"
+    ],
+    "",
+    "share-alt-square",
+    "f1e1",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    "",
+    "bomb",
+    "f1e2",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    "",
+    "futbol-o",
+    "f1e3",
+    [
+      "soccer-ball-o"
+    ]
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    "",
+    "tty",
+    "f1e4",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    "",
+    "binoculars",
+    "f1e5",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    "",
+    "plug",
+    "f1e6",
+    ""
+  ],
+  [
+    [
+      "Brand Icons"
+    ],
+    "",
+    "slideshare",
+    "f1e7",
+    ""
+  ],
+  [
+    [
+      "Brand Icons"
+    ],
+    "",
+    "twitch",
+    "f1e8",
+    ""
+  ],
+  [
+    [
+      "Brand Icons"
+    ],
+    "",
+    "yelp",
+    "f1e9",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "press"
+    ],
+    "newspaper-o",
+    "f1ea",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    "",
+    "wifi",
+    "f1eb",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    "",
+    "calculator",
+    "f1ec",
+    ""
+  ],
+  [
+    [
+      "Brand Icons",
+      "Payment Icons"
+    ],
+    "",
+    "paypal",
+    "f1ed",
+    ""
+  ],
+  [
+    [
+      "Brand Icons",
+      "Payment Icons"
+    ],
+    "",
+    "google-wallet",
+    "f1ee",
+    ""
+  ],
+  [
+    [
+      "Brand Icons",
+      "Payment Icons"
+    ],
+    "",
+    "cc-visa",
+    "f1f0",
+    ""
+  ],
+  [
+    [
+      "Brand Icons",
+      "Payment Icons"
+    ],
+    "",
+    "cc-mastercard",
+    "f1f1",
+    ""
+  ],
+  [
+    [
+      "Brand Icons",
+      "Payment Icons"
+    ],
+    "",
+    "cc-discover",
+    "f1f2",
+    ""
+  ],
+  [
+    [
+      "Brand Icons",
+      "Payment Icons"
+    ],
+    [
+      "amex"
+    ],
+    "cc-amex",
+    "f1f3",
+    ""
+  ],
+  [
+    [
+      "Brand Icons",
+      "Payment Icons"
+    ],
+    "",
+    "cc-paypal",
+    "f1f4",
+    ""
+  ],
+  [
+    [
+      "Brand Icons",
+      "Payment Icons"
+    ],
+    "",
+    "cc-stripe",
+    "f1f5",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    "",
+    "bell-slash",
+    "f1f6",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    "",
+    "bell-slash-o",
+    "f1f7",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "garbage",
+      "delete",
+      "remove",
+      "hide"
+    ],
+    "trash",
+    "f1f8",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    "",
+    "copyright",
+    "f1f9",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    "",
+    "at",
+    "f1fa",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    "",
+    "eyedropper",
+    "f1fb",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    "",
+    "paint-brush",
+    "f1fc",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    "",
+    "birthday-cake",
+    "f1fd",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons",
+      "Chart Icons"
+    ],
+    [
+      "graph",
+      "analytics"
+    ],
+    "area-chart",
+    "f1fe",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons",
+      "Chart Icons"
+    ],
+    [
+      "graph",
+      "analytics"
+    ],
+    "pie-chart",
+    "f200",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons",
+      "Chart Icons"
+    ],
+    [
+      "graph",
+      "analytics"
+    ],
+    "line-chart",
+    "f201",
+    ""
+  ],
+  [
+    [
+      "Brand Icons"
+    ],
+    "",
+    "lastfm",
+    "f202",
+    ""
+  ],
+  [
+    [
+      "Brand Icons"
+    ],
+    "",
+    "lastfm-square",
+    "f203",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    "",
+    "toggle-off",
+    "f204",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    "",
+    "toggle-on",
+    "f205",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons",
+      "Transportation Icons"
+    ],
+    [
+      "vehicle",
+      "bike"
+    ],
+    "bicycle",
+    "f206",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons",
+      "Transportation Icons"
+    ],
+    [
+      "vehicle"
+    ],
+    "bus",
+    "f207",
+    ""
+  ],
+  [
+    [
+      "Brand Icons"
+    ],
+    "",
+    "ioxhost",
+    "f208",
+    ""
+  ],
+  [
+    [
+      "Brand Icons"
+    ],
+    "",
+    "angellist",
+    "f209",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    "",
+    "cc",
+    "f20a",
+    ""
+  ],
+  [
+    [
+      "Currency Icons"
+    ],
+    "",
+    "ils",
+    "f20b",
+    [
+      "shekel",
+      "sheqel"
+    ]
+  ],
+  [
+    [
+      "Brand Icons"
+    ],
+    "",
+    "meanpath",
+    "f20c",
+    ""
+  ],
+  [
+    [
+      "Brand Icons"
+    ],
+    "",
+    "buysellads",
+    "f20d",
+    ""
+  ],
+  [
+    [
+      "Brand Icons"
+    ],
+    "",
+    "connectdevelop",
+    "f20e",
+    ""
+  ],
+  [
+    [
+      "Brand Icons"
+    ],
+    "",
+    "dashcube",
+    "f210",
+    ""
+  ],
+  [
+    [
+      "Brand Icons"
+    ],
+    "",
+    "forumbee",
+    "f211",
+    ""
+  ],
+  [
+    [
+      "Brand Icons"
+    ],
+    "",
+    "leanpub",
+    "f212",
+    ""
+  ],
+  [
+    [
+      "Brand Icons"
+    ],
+    "",
+    "sellsy",
+    "f213",
+    ""
+  ],
+  [
+    [
+      "Brand Icons"
+    ],
+    "",
+    "shirtsinbulk",
+    "f214",
+    ""
+  ],
+  [
+    [
+      "Brand Icons"
+    ],
+    "",
+    "simplybuilt",
+    "f215",
+    ""
+  ],
+  [
+    [
+      "Brand Icons"
+    ],
+    "",
+    "skyatlas",
+    "f216",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "add",
+      "shopping"
+    ],
+    "cart-plus",
+    "f217",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "shopping"
+    ],
+    "cart-arrow-down",
+    "f218",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "gem",
+      "gemstone"
+    ],
+    "diamond",
+    "f219",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons",
+      "Transportation Icons"
+    ],
+    [
+      "boat",
+      "sea"
+    ],
+    "ship",
+    "f21a",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "whisper",
+      "spy",
+      "incognito"
+    ],
+    "user-secret",
+    "f21b",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons",
+      "Transportation Icons"
+    ],
+    [
+      "vehicle",
+      "bike"
+    ],
+    "motorcycle",
+    "f21c",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "map"
+    ],
+    "street-view",
+    "f21d",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons",
+      "Medical Icons"
+    ],
+    [
+      "ekg"
+    ],
+    "heartbeat",
+    "f21e",
+    ""
+  ],
+  [
+    [
+      "Gender Icons"
+    ],
+    [
+      "female"
+    ],
+    "venus",
+    "f221",
+    ""
+  ],
+  [
+    [
+      "Gender Icons"
+    ],
+    [
+      "male"
+    ],
+    "mars",
+    "f222",
+    ""
+  ],
+  [
+    [
+      "Gender Icons"
+    ],
+    [
+      "transgender"
+    ],
+    "mercury",
+    "f223",
+    ""
+  ],
+  [
+    [
+      "Gender Icons"
+    ],
+    "",
+    "transgender",
+    "f224",
+    [
+      "intersex"
+    ]
+  ],
+  [
+    [
+      "Gender Icons"
+    ],
+    "",
+    "transgender-alt",
+    "f225",
+    ""
+  ],
+  [
+    [
+      "Gender Icons"
+    ],
+    "",
+    "venus-double",
+    "f226",
+    ""
+  ],
+  [
+    [
+      "Gender Icons"
+    ],
+    "",
+    "mars-double",
+    "f227",
+    ""
+  ],
+  [
+    [
+      "Gender Icons"
+    ],
+    "",
+    "venus-mars",
+    "f228",
+    ""
+  ],
+  [
+    [
+      "Gender Icons"
+    ],
+    "",
+    "mars-stroke",
+    "f229",
+    ""
+  ],
+  [
+    [
+      "Gender Icons"
+    ],
+    "",
+    "mars-stroke-v",
+    "f22a",
+    ""
+  ],
+  [
+    [
+      "Gender Icons"
+    ],
+    "",
+    "mars-stroke-h",
+    "f22b",
+    ""
+  ],
+  [
+    [
+      "Gender Icons"
+    ],
+    "",
+    "neuter",
+    "f22c",
+    ""
+  ],
+  [
+    [
+      "Gender Icons"
+    ],
+    "",
+    "genderless",
+    "f22d",
+    ""
+  ],
+  [
+    [
+      "Brand Icons"
+    ],
+    "",
+    "facebook-official",
+    "f230",
+    ""
+  ],
+  [
+    [
+      "Brand Icons"
+    ],
+    "",
+    "pinterest-p",
+    "f231",
+    ""
+  ],
+  [
+    [
+      "Brand Icons"
+    ],
+    "",
+    "whatsapp",
+    "f232",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    "",
+    "server",
+    "f233",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "sign up",
+      "signup"
+    ],
+    "user-plus",
+    "f234",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    "",
+    "user-times",
+    "f235",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "travel"
+    ],
+    "bed",
+    "f236",
+    [
+      "hotel"
+    ]
+  ],
+  [
+    [
+      "Brand Icons"
+    ],
+    "",
+    "viacoin",
+    "f237",
+    ""
+  ],
+  [
+    [
+      "Transportation Icons"
+    ],
+    "",
+    "train",
+    "f238",
+    ""
+  ],
+  [
+    [
+      "Transportation Icons"
+    ],
+    "",
+    "subway",
+    "f239",
+    ""
+  ],
+  [
+    [
+      "Brand Icons"
+    ],
+    "",
+    "medium",
+    "f23a",
+    ""
+  ],
+  [
+    [
+      "Brand Icons"
+    ],
+    "",
+    "y-combinator",
+    "f23b",
+    [
+      "yc"
+    ]
+  ],
+  [
+    [
+      "Brand Icons"
+    ],
+    "",
+    "optin-monster",
+    "f23c",
+    ""
+  ],
+  [
+    [
+      "Brand Icons"
+    ],
+    "",
+    "opencart",
+    "f23d",
+    ""
+  ],
+  [
+    [
+      "Brand Icons"
+    ],
+    "",
+    "expeditedssl",
+    "f23e",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    "",
+    "battery-full",
+    "f240",
+    [
+      "battery-4"
+    ]
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    "",
+    "battery-three-quarters",
+    "f241",
+    [
+      "battery-3"
+    ]
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    "",
+    "battery-half",
+    "f242",
+    [
+      "battery-2"
+    ]
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    "",
+    "battery-quarter",
+    "f243",
+    [
+      "battery-1"
+    ]
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    "",
+    "battery-empty",
+    "f244",
+    [
+      "battery-0"
+    ]
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    "",
+    "mouse-pointer",
+    "f245",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    "",
+    "i-cursor",
+    "f246",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    "",
+    "object-group",
+    "f247",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    "",
+    "object-ungroup",
+    "f248",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    "",
+    "sticky-note",
+    "f249",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    "",
+    "sticky-note-o",
+    "f24a",
+    ""
+  ],
+  [
+    [
+      "Brand Icons",
+      "Payment Icons"
+    ],
+    "",
+    "cc-jcb",
+    "f24b",
+    ""
+  ],
+  [
+    [
+      "Brand Icons",
+      "Payment Icons"
+    ],
+    "",
+    "cc-diners-club",
+    "f24c",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    [
+      "copy"
+    ],
+    "clone",
+    "f24d",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    "",
+    "balance-scale",
+    "f24e",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    "",
+    "hourglass-o",
+    "f250",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    "",
+    "hourglass-start",
+    "f251",
+    [
+      "hourglass-1"
+    ]
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    "",
+    "hourglass-half",
+    "f252",
+    [
+      "hourglass-2"
+    ]
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    "",
+    "hourglass-end",
+    "f253",
+    [
+      "hourglass-3"
+    ]
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    "",
+    "hourglass",
+    "f254",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons",
+      "Hand Icons"
+    ],
+    "",
+    "hand-rock-o",
+    "f255",
+    [
+      "hand-grab-o"
+    ]
+  ],
+  [
+    [
+      "Web Application Icons",
+      "Hand Icons"
+    ],
+    "",
+    "hand-paper-o",
+    "f256",
+    [
+      "hand-stop-o"
+    ]
+  ],
+  [
+    [
+      "Web Application Icons",
+      "Hand Icons"
+    ],
+    "",
+    "hand-scissors-o",
+    "f257",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons",
+      "Hand Icons"
+    ],
+    "",
+    "hand-lizard-o",
+    "f258",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons",
+      "Hand Icons"
+    ],
+    "",
+    "hand-spock-o",
+    "f259",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons",
+      "Hand Icons"
+    ],
+    "",
+    "hand-pointer-o",
+    "f25a",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons",
+      "Hand Icons"
+    ],
+    "",
+    "hand-peace-o",
+    "f25b",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    "",
+    "trademark",
+    "f25c",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    "",
+    "registered",
+    "f25d",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    "",
+    "creative-commons",
+    "f25e",
+    ""
+  ],
+  [
+    [
+      "Currency Icons",
+      "Brand Icons"
+    ],
+    "",
+    "gg",
+    "f260",
+    ""
+  ],
+  [
+    [
+      "Currency Icons",
+      "Brand Icons"
+    ],
+    "",
+    "gg-circle",
+    "f261",
+    ""
+  ],
+  [
+    [
+      "Brand Icons"
+    ],
+    "",
+    "tripadvisor",
+    "f262",
+    ""
+  ],
+  [
+    [
+      "Brand Icons"
+    ],
+    "",
+    "odnoklassniki",
+    "f263",
+    ""
+  ],
+  [
+    [
+      "Brand Icons"
+    ],
+    "",
+    "odnoklassniki-square",
+    "f264",
+    ""
+  ],
+  [
+    [
+      "Brand Icons"
+    ],
+    "",
+    "get-pocket",
+    "f265",
+    ""
+  ],
+  [
+    [
+      "Brand Icons"
+    ],
+    "",
+    "wikipedia-w",
+    "f266",
+    ""
+  ],
+  [
+    [
+      "Brand Icons"
+    ],
+    [
+      "browser"
+    ],
+    "safari",
+    "f267",
+    ""
+  ],
+  [
+    [
+      "Brand Icons"
+    ],
+    [
+      "browser"
+    ],
+    "chrome",
+    "f268",
+    ""
+  ],
+  [
+    [
+      "Brand Icons"
+    ],
+    [
+      "browser"
+    ],
+    "firefox",
+    "f269",
+    ""
+  ],
+  [
+    [
+      "Brand Icons"
+    ],
+    "",
+    "opera",
+    "f26a",
+    ""
+  ],
+  [
+    [
+      "Brand Icons"
+    ],
+    [
+      "browser",
+      "ie"
+    ],
+    "internet-explorer",
+    "f26b",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    "",
+    "television",
+    "f26c",
+    [
+      "tv"
+    ]
+  ],
+  [
+    [
+      "Brand Icons"
+    ],
+    "",
+    "contao",
+    "f26d",
+    ""
+  ],
+  [
+    [
+      "Brand Icons"
+    ],
+    "",
+    "500px",
+    "f26e",
+    ""
+  ],
+  [
+    [
+      "Brand Icons"
+    ],
+    "",
+    "amazon",
+    "f270",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    "",
+    "calendar-plus-o",
+    "f271",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    "",
+    "calendar-minus-o",
+    "f272",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    "",
+    "calendar-times-o",
+    "f273",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    "",
+    "calendar-check-o",
+    "f274",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    "",
+    "industry",
+    "f275",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    "",
+    "map-pin",
+    "f276",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    "",
+    "map-signs",
+    "f277",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    "",
+    "map-o",
+    "f278",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    "",
+    "map",
+    "f279",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    "",
+    "commenting",
+    "f27a",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    "",
+    "commenting-o",
+    "f27b",
+    ""
+  ],
+  [
+    [
+      "Brand Icons"
+    ],
+    "",
+    "houzz",
+    "f27c",
+    ""
+  ],
+  [
+    [
+      "Brand Icons"
+    ],
+    "",
+    "vimeo",
+    "f27d",
+    ""
+  ],
+  [
+    [
+      "Brand Icons"
+    ],
+    "",
+    "black-tie",
+    "f27e",
+    ""
+  ],
+  [
+    [
+      "Brand Icons"
+    ],
+    "",
+    "fonticons",
+    "f280",
+    ""
+  ],
+  [
+    [
+      "Brand Icons"
+    ],
+    "",
+    "reddit-alien",
+    "f281",
+    ""
+  ],
+  [
+    [
+      "Brand Icons"
+    ],
+    [
+      "browser",
+      "ie"
+    ],
+    "edge",
+    "f282",
+    ""
+  ],
+  [
+    [
+      "Payment Icons",
+      "Web Application Icons"
+    ],
+    [
+      "money",
+      "buy",
+      "debit",
+      "checkout",
+      "purchase",
+      "payment",
+      "credit card"
+    ],
+    "credit-card-alt",
+    "f283",
+    ""
+  ],
+  [
+    [
+      "Brand Icons"
+    ],
+    "",
+    "codiepie",
+    "f284",
+    ""
+  ],
+  [
+    [
+      "Brand Icons"
+    ],
+    "",
+    "modx",
+    "f285",
+    ""
+  ],
+  [
+    [
+      "Brand Icons"
+    ],
+    "",
+    "fort-awesome",
+    "f286",
+    ""
+  ],
+  [
+    [
+      "Brand Icons"
+    ],
+    "",
+    "usb",
+    "f287",
+    ""
+  ],
+  [
+    [
+      "Brand Icons"
+    ],
+    "",
+    "product-hunt",
+    "f288",
+    ""
+  ],
+  [
+    [
+      "Brand Icons"
+    ],
+    "",
+    "mixcloud",
+    "f289",
+    ""
+  ],
+  [
+    [
+      "Brand Icons"
+    ],
+    "",
+    "scribd",
+    "f28a",
+    ""
+  ],
+  [
+    [
+      "Video Player Icons"
+    ],
+    "",
+    "pause-circle",
+    "f28b",
+    ""
+  ],
+  [
+    [
+      "Video Player Icons"
+    ],
+    "",
+    "pause-circle-o",
+    "f28c",
+    ""
+  ],
+  [
+    [
+      "Video Player Icons"
+    ],
+    "",
+    "stop-circle",
+    "f28d",
+    ""
+  ],
+  [
+    [
+      "Video Player Icons"
+    ],
+    "",
+    "stop-circle-o",
+    "f28e",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    "",
+    "shopping-bag",
+    "f290",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    "",
+    "shopping-basket",
+    "f291",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    "",
+    "hashtag",
+    "f292",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons",
+      "Brand Icons"
+    ],
+    "",
+    "bluetooth",
+    "f293",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons",
+      "Brand Icons"
+    ],
+    "",
+    "bluetooth-b",
+    "f294",
+    ""
+  ],
+  [
+    [
+      "Web Application Icons"
+    ],
+    "",
+    "percent",
+    "f295",
+    ""
+  ]
+]
