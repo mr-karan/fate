@@ -1,7 +1,7 @@
 # fate
 [![version](https://img.shields.io/pypi/v/fate.svg)](https://pypi.python.org/pypi/fate/)
 [![supported](https://img.shields.io/pypi/pyversions/fate.svg)](https://pypi.python.org/pypi/fate/)
-[![Twitter](https://img.shields.io/twitter/url/https/pypi.python.org/pypi/fate.svg?style=social?style=flat-square)](https://twitter.com/intent/tweet?text=Wow:&url=%5Bobject%20Object%5D)
+[![Twitter](https://img.shields.io/twitter/url/https/pypi.python.org/pypi/fate.svg?style=social?style=flat-square)](https://twitter.com/intent/tweet?text=FontAwesome on Terminal:&url=https://github.com/mr-karan/fate)
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/mr-karan/fate/master/LICENSE)
 [![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
 >fate is a simple CLI program which let's you browse FontAwesome icons on your terminal. 
