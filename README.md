@@ -2,6 +2,10 @@
 
 ## fate is a simple CLI program which let's you browse FontAwesome icons on your terminal. 
 Note : Python3+ only.
+
+[![asciicast](https://asciinema.org/a/9oyqtsd9r6xh3ppryiy0yu14r.png)](https://asciinema.org/a/9oyqtsd9r6xh3ppryiy0yu14r)
+
+
 Install Instructions : 
 `pip install fate`
 or 
