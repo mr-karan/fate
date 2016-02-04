@@ -1,7 +1,5 @@
 #!/usr/bin/env python
-
 from setuptools import setup, find_packages
-
 try:
     import pypandoc
     long_description = pypandoc.convert('README.md', 'rst')
@@ -11,7 +9,7 @@ except (IOError, ImportError):
 with open('requirements.txt') as f:
     requirements = f.read().splitlines()
 
-version = '0.91'
+version = '0.94'
 
 setup(
     name='fate',
@@ -40,6 +38,5 @@ setup(
         'Topic :: Text Processing :: Fonts',
         'Topic :: Software Development :: Libraries',
         'Topic :: Software Development :: Libraries :: Python Modules',
-        'Topic :: Utilities',
     ],
 )
