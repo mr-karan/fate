@@ -47,10 +47,49 @@ Note : Python3+ only.
 Well, 'F'ont'A'wesome on 'Te'rminal = "fate" :)
 Credits to my good friend [@Kush](https://twitter.com/BurstDragon)
 
+### Facing problems with Font Rendering ?
 For the icons to display properly on your system, you need to have FontAwesome fonts installed.
 Grab the otf files from [here](https://fortawesome.github.io/Font-Awesome/)
 You will need to install this font on your system for icons to be rendered properly.
 Instructions [here](http://askubuntu.com/questions/191778/how-to-install-many-font-files-fast-and-easy)
+[Update](http://askubuntu.com/questions/605986/how-can-i-upgrade-gnome-terminal-on-ubuntu-14-04-lts) your gnome-terminal
+Also if you are still not able to get the fonts, you may have to perform the step listed as : 
+To use it in Linux within gnome-terminal you need to put `FontAwesome.otf`
+inside your `~/.fonts/` folder on Linux. And create a
+`~/.config/fontconfig/fonts.conf` file with the following content:
+
+    <?xml version='1.0'?>
+    <!DOCTYPE fontconfig SYSTEM 'fonts.dtd'>
+    <fontconfig>
+    <!-- Font families -->
+    <alias>
+      <family>serif</family>
+      <prefer>
+        <family>DejaVu Serif</family>
+        <family>Android Emoji</family>
+        <family>Symbola</family>
+      </prefer>
+    </alias>
+    <alias>
+      <family>sans-serif</family>
+      <prefer>
+        <family>DejaVu Sans</family>
+        <family>Android Emoji</family>
+        <family>Symbola</family>
+      </prefer>
+    </alias>
+    <alias>
+      <family>monospace</family>
+      <prefer>
+        <family>Ubuntu Mono</family> <!-- change this to your prefered monospace font if you like -->
+        <family>DejaVu Sans Mono</family>
+        <family>Android Emoji</family> <!-- put the Symbola line before this if you prefer Symbola to Android Emoji -->
+        <family>Symbola</family>
+        <family>FontAwesome</family>
+      </prefer>
+    </alias>
+    </fontconfig>
+[SOurce] https://github.com/AnthonyDiGirolamo/els/blob/master/README.markdown)
 
 For Windows users : 
  - pip install would most likely fail to install `pyyaml`, since `PyYAML` isn't actively maintained. You need to grab it manaully from [here](http://www.lfd.uci.edu/~gohlke/pythonlibs/#pyyaml)
