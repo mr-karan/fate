@@ -1,6 +1,5 @@
 #!/usr/bin/python
 # -*- coding: UTF-8 -*-
-
 import yaml
 import requests
 import json
@@ -10,7 +9,7 @@ import pyperclip
 from prompt_toolkit import prompt
 from prompt_toolkit.contrib.completers import WordCompleter
 from collections import namedtuple
-from fate.helpers import *
+from helpers import *
 parser = argparse.ArgumentParser(prog='fa-cli', description='FontAwesome CLI')
 parser.add_argument('-i', '--icon', action='store_true', help='Enter icon name')
 parser.add_argument('-f', '--filter', action='store_true', help='Filter Font awesome icons')
@@ -21,34 +20,33 @@ args = parser.parse_args()
 
 # Outputs the icon details to the user. Also copies the data to clipboard if -e [data] is present.
 
+def main():
 
-def message(give_id, text):
-    try:
-        if give_id[text]:
-            name = 'fa-'+text
-            uni = give_id[text]
-            hexhtml = '&#x'+give_id[text]
-            icon = html.unescape('&#x'+give_id[text])
+    def message(give_id, text):
+        try:
+            if give_id[text]:
+                name = 'fa-'+text
+                uni = give_id[text]
+                hexhtml = '&#x'+give_id[text]
+                icon = html.unescape('&#x'+give_id[text])
 
-            if args.echo:
-                if args.echo[0] == 'unicode':
-                    pyperclip.copy(give_id[text])
-                if args.echo[0] == 'name':
-                    pyperclip.copy('fa-'+text)
-                if args.echo[0] == 'icon':
-                    pyperclip.copy(html.unescape('&#x'+give_id[text]))
-            return '''Icon Details
-            Name : {0}
-            Unicode : {1}
-            HTML Hex :  {2}
-            Icon : {3}
+                if args.echo:
+                    if args.echo[0] == 'unicode':
+                        pyperclip.copy(give_id[text])
+                    if args.echo[0] == 'name':
+                        pyperclip.copy('fa-'+text)
+                    if args.echo[0] == 'icon':
+                        pyperclip.copy(html.unescape('&#x'+give_id[text]))
+                return '''Icon Details
+                Name : {0}
+                Unicode : {1}
+                HTML Hex :  {2}
+                Icon : {3}
 
-            '''.format(name, uni, hexhtml, icon)
-    except KeyError:
-        print('Invalid name')
-
-if __name__ == '__main__':
-    # Maintain a cache so that everytime it doesn't need to request the source file.
+                '''.format(name, uni, hexhtml, icon)
+        except KeyError:
+            print('Invalid name')
+     # Maintain a cache so that everytime it doesn't need to request the source file.
     try:
         with open('.fa_cache', 'r') as cache_file:
             icon_data = json.load(cache_file)
@@ -104,3 +102,7 @@ if __name__ == '__main__':
         i_completer = WordCompleter(list(give_id.keys()))
         texti = prompt('Enter Icon Name: ', completer=i_completer)
         print(message(give_id, texti))
+
+
+if __name__ == '__main__':
+    main()
