@@ -1,15 +1,18 @@
 # fate
 
 ## fate is a simple CLI program which let's you browse FontAwesome icons on your terminal. 
-
+Note : Python3+ only.
 Install Instructions : 
 `pip install fate`
 or 
 `pip install git+https://github.com/mr-karan/fate.git`
 
 For the icons to display properly on your system, you need to have FontAwesome fonts installed.
+Grab the otf files from [here](https://fortawesome.github.io/Font-Awesome/)
+You need to install this font on your system for icons to be rendered properly.
+
 For Windows user : 
- - [ ] Since PyYAML isn't actively maintained, you need to grab it manaully from
+ - [ ] Since PyYAML isn't actively maintained, you need to grab it manaully from [here](http://www.lfd.uci.edu/~gohlke/pythonlibs/#pyyaml)
  - [ ] If you are using, cmd god bless you. Change the character map using chcp 65001
 
 ###Avilable commands : 
