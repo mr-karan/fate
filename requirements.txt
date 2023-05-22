@@ -1,7 +1,7 @@
 prompt-toolkit==0.57
 Pygments==2.7.4
 pyperclip==1.5.26
-requests==2.20.0
+requests==2.31.0
 pyaml==15.8.2
 PyYAML==5.4
 six>=1.10.0
