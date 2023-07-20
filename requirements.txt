@@ -1,5 +1,5 @@
 prompt-toolkit==0.57
-Pygments==2.7.4
+Pygments==2.15.0
 pyperclip==1.5.26
 requests==2.20.0
 pyaml==15.8.2
